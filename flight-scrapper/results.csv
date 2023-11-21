@@ -1,0 +1,743 @@
+,origin,destination,startdate,deptime,arrtime,stops,duration,layovers,airline,currency,price,url
+0,HEL,LON,2023-11-30,10:10 pm , 11:20 pm,0,3h 10m,0,Ryanair,USD,27,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+1,HEL,LON,2023-11-30,9:10 am , 10:20 am,0,3h 10m,0,Norwegian,USD,61,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+2,HEL,LON,2023-11-30,7:50 am , 9:10 am,0,3h 20m,0,Finnair,USD,161,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+3,HEL,LON,2023-11-30,2:00 pm , 3:15 pm,0,3h 15m,0,Finnair,USD,168,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+4,HEL,LON,2023-11-30,7:35 pm , 8:40 pm,0,3h 05m,0,Finnair,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+5,HEL,LON,2023-11-30,7:35 pm , 8:40 pm,0,3h 05m,0,British Airways,USD,196,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+6,HEL,LON,2023-11-30,2:00 pm , 3:15 pm,0,3h 15m,0,British Airways,USD,196,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+7,HEL,LON,2023-11-30,4:00 pm , 5:00 pm,0,3h 00m,0,Finnair,USD,203,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+8,HEL,LON,2023-11-30,7:45 pm , 10:45 pm,1,5h 00m,90,"Norwegian, Ryanair",USD,77,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+9,HEL,LON,2023-11-30,1:15 pm , 4:25 pm,1,5h 10m,70,Scandinavian Airlines,USD,95,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+10,HEL,LON,2023-11-30,4:40 pm , 7:30 pm,1,4h 50m,75,Norwegian,USD,105,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+11,HEL,LON,2023-11-30,5:20 am , 8:40 am,1,5h 20m,80,airBaltic,USD,99,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+12,HEL,LON,2023-11-30,4:25 pm , 7:55 pm,1,5h 30m,95,Scandinavian Airlines,USD,99,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+13,HEL,LON,2023-11-30,10:45 am , 5:55 pm,1,9h 10m,230,Ryanair,USD,64,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+14,HEL,LON,2023-11-30,3:45 pm , 8:10 pm,1,6h 25m,145,Norwegian,USD,105,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+15,HEL,LON,2023-11-30,10:45 am , 10:10 pm,1,13h 25m,485,"Ryanair, easyJet",USD,75,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+16,HEL,LON,2023-11-30,7:00 am , 9:30 am,1,4h 30m,40,KLM,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+17,HEL,LON,2023-11-30,1:55 pm , 4:35 pm,1,4h 40m,60,KLM,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+18,HEL,LON,2023-11-30,1:55 pm , 5:20 pm,1,5h 25m,110,KLM,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+19,HEL,LON,2023-11-30,5:20 am , 4:45 pm,1,13h 25m,565,airBaltic,USD,84,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+20,HEL,LON,2023-11-30,7:25 am , 7:55 pm,1,14h 30m,635,Scandinavian Airlines,USD,99,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+21,HEL,LON,2023-11-30,4:00 pm , 5:00 pm,0,3h 00m,0,British Airways,USD,251,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+22,HEL,LON,2023-11-30,9:20 pm , 8:40 am+1,1,13h 20m,560,airBaltic,USD,100,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+23,HEL,LON,2023-11-30,5:20 am , 4:35 pm,1,13h 15m,560,"airBaltic, Ryanair",USD,95,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+24,HEL,LON,2023-11-30,7:25 am , 9:20 pm,1,15h 55m,725,Scandinavian Airlines,USD,99,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+25,HEL,LON,2023-11-30,10:45 am , 1:35 am+1,2,16h 50m,495,"Ryanair, Wizz Air UK",USD,73,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+26,HEL,LON,2023-11-30,10:45 am , 1:35 am+1,2,16h 50m,495,Multiple airlines,USD,79,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+27,HEL,LON,2023-11-30,6:30 am , 1:00 pm,2,8h 30m,190,SWISS,USD,230,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+28,HEL,LON,2023-11-30,3:30 pm , 8:40 am+1,1,19h 10m,910,airBaltic,USD,100,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+29,HEL,LON,2023-11-30,3:45 pm , 8:35 am+1,1,18h 50m,880,Norwegian,USD,105,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+30,HEL,LON,2023-11-30,8:40 am , 4:45 pm,1,10h 05m,365,airBaltic,USD,84,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+31,HEL,LON,2023-11-30,1:30 pm , 5:55 pm,1,6h 25m,160,Scandinavian Airlines,USD,150,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+32,HEL,LON,2023-11-30,10:45 am , 7:05 pm,1,10h 20m,310,"Ryanair, easyJet",USD,71,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+33,HEL,LON,2023-11-30,1:15 pm , 7:35 pm,1,8h 20m,285,"Scandinavian Airlines, Ryanair UK",USD,98,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+34,HEL,LON,2023-11-30,7:25 am , 12:55 pm,1,7h 30m,215,Scandinavian Airlines,USD,150,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+35,HEL,LON,2023-11-30,12:05 pm , 7:35 pm,1,9h 30m,360,"Finnair, Ryanair UK",USD,90,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+36,HEL,LON,2023-11-30,10:15 am , 5:00 pm,1,8h 45m,300,Scandinavian Airlines,USD,121,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+37,HEL,LON,2023-11-30,5:20 am , 11:55 am,2,8h 35m,215,"airBaltic, Ryanair UK",USD,91,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+38,HEL,LON,2023-11-30,1:30 pm , 7:55 pm,1,8h 25m,275,Scandinavian Airlines,USD,150,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+39,HEL,LON,2023-11-30,10:15 am , 5:55 pm,1,9h 40m,355,Scandinavian Airlines,USD,121,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+40,HEL,LON,2023-11-30,7:40 am , 4:20 pm,1,10h 40m,415,Norwegian,USD,105,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+41,HEL,LON,2023-11-30,8:40 am , 4:35 pm,1,9h 55m,360,"airBaltic, Ryanair",USD,105,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+42,HEL,LON,2023-11-30,6:30 am , 4:00 pm,1,11h 30m,455,Scandinavian Airlines,USD,107,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+43,HEL,LON,2023-11-30,10:45 am , 6:55 pm,2,10h 10m,170,Ryanair,USD,90,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+44,HEL,LON,2023-11-30,10:45 am , 6:55 pm,2,10h 10m,170,Ryanair,USD,90,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+45,HEL,LON,2023-11-30,3:30 pm , 10:45 pm,2,9h 15m,270,"airBaltic, Ryanair",USD,105,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+46,HEL,LON,2023-11-30,7:40 am , 1:25 pm,2,7h 45m,200,Norwegian,USD,147,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+47,HEL,LON,2023-11-30,10:45 am , 6:35 pm,2,9h 50m,165,"Ryanair, Vueling",USD,109,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+48,HEL,LON,2023-11-30,7:25 am , 5:55 pm,1,12h 30m,520,Scandinavian Airlines,USD,99,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+49,HEL,LON,2023-11-30,4:00 pm , 8:10 pm,1,6h 10m,65,"Finnair, Wizz Air Malta",USD,133,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+50,HEL,LON,2023-11-30,6:20 pm , 9:45 pm,1,5h 25m,95,"Scandinavian Airlines, easyJet",USD,145,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+51,HEL,LON,2023-11-30,3:30 pm , 11:15 pm,2,9h 45m,320,"airBaltic, Ryanair",USD,118,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+52,HEL,LON,2023-11-30,3:45 pm , 8:45 pm,1,7h 00m,180,"Norwegian, British Airways",USD,125,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+53,HEL,LON,2023-11-30,7:40 am , 2:30 pm,2,8h 50m,255,Norwegian,USD,140,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+54,HEL,LON,2023-11-30,1:15 pm , 4:55 pm,1,5h 40m,100,"Scandinavian Airlines, Norwegian",USD,145,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+55,HEL,LON,2023-11-30,7:00 am , 9:30 am,1,4h 30m,40,KLM,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+56,HEL,LON,2023-11-30,6:20 pm , 11:15 pm,1,6h 55m,195,"Scandinavian Airlines, Ryanair",USD,133,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+57,HEL,LON,2023-11-30,6:10 pm , 8:50 pm,1,4h 40m,40,KLM,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+58,HEL,LON,2023-11-30,1:55 pm , 4:35 pm,1,4h 40m,60,KLM,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+59,HEL,LON,2023-11-30,12:00 pm , 4:45 pm,1,6h 45m,155,"Finnair, airBaltic",USD,136,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+60,HEL,LON,2023-11-30,10:15 am , 7:55 pm,1,11h 40m,470,Scandinavian Airlines,USD,122,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+61,HEL,LON,2023-11-30,12:05 pm , 4:55 pm,1,6h 50m,175,"Finnair, Norwegian",USD,137,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+62,HEL,LON,2023-11-30,4:05 pm , 7:40 pm,1,5h 35m,110,"Finnair, British Airways",USD,160,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+63,HEL,LON,2023-11-30,5:20 am , 11:45 am,2,8h 25m,220,"airBaltic, Ryanair",USD,126,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+64,HEL,LON,2023-11-30,1:55 pm , 5:00 pm,1,5h 05m,70,KLM,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+65,HEL,LON,2023-11-30,7:25 am , 1:30 pm,2,8h 05m,230,"Scandinavian Airlines, Ryanair",USD,122,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+66,HEL,LON,2023-11-30,10:40 am , 1:50 pm,1,5h 10m,75,KLM,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+67,HEL,LON,2023-11-30,1:15 pm , 9:35 pm,1,10h 20m,380,Scandinavian Airlines,USD,145,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+68,HEL,LON,2023-11-30,7:05 am , 10:20 am,1,5h 15m,55,Lufthansa,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+69,HEL,LON,2023-11-30,7:35 am , 2:20 pm,1,8h 45m,270,"Finnair, Vueling",USD,119,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+70,HEL,LON,2023-11-30,1:55 pm , 5:20 pm,1,5h 25m,110,KLM,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+71,HEL,LON,2023-11-30,7:25 am , 11:45 am,1,6h 20m,160,"Scandinavian Airlines, Ryanair",USD,150,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+72,HEL,LON,2023-11-30,7:05 am , 10:45 am,1,5h 40m,65,Lufthansa,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+73,HEL,LON,2023-11-30,4:00 pm , 10:25 pm,1,8h 25m,195,"Finnair, Ryanair",USD,128,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+74,HEL,LON,2023-11-30,12:00 pm , 6:50 pm,1,8h 50m,290,"Finnair, British Airways",USD,129,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+75,HEL,LON,2023-11-30,7:00 am , 10:45 am,1,5h 45m,95,KLM,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+76,HEL,LON,2023-11-30,3:30 pm , 9:45 pm,2,8h 15m,220,"airBaltic, easyJet",USD,129,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+77,HEL,LON,2023-11-30,7:40 am , 4:55 pm,2,11h 15m,400,Norwegian,USD,133,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+78,HEL,LON,2023-11-30,4:00 pm , 5:00 pm,0,3h 00m,0,British Airways,USD,251,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+79,HEL,LON,2023-11-30,10:45 am , 7:15 pm,2,10h 30m,190,"Ryanair, British Airways",USD,105,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+80,HEL,LON,2023-11-30,4:00 pm , 9:50 pm,1,7h 50m,170,"Finnair, easyJet",USD,142,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+81,HEL,LON,2023-11-30,12:45 pm , 5:05 pm,1,6h 20m,85,Lufthansa,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+82,HEL,LON,2023-11-30,7:50 am , 9:10 am,0,3h 20m,0,British Airways,USD,251,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+83,HEL,LON,2023-11-30,10:45 am , 6:45 pm,1,10h 00m,275,"Ryanair, British Airways",USD,118,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+84,HEL,LON,2023-11-30,4:00 pm , 10:10 pm,1,8h 10m,180,"Finnair, easyJet",USD,142,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+85,HEL,LON,2023-11-30,3:30 pm , 8:50 pm,2,7h 20m,165,"airBaltic, Brussels Airlines",USD,192,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+86,HEL,LON,2023-11-30,3:30 pm , 8:50 pm,2,7h 20m,165,"airBaltic, Brussels Airlines",USD,192,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+87,HEL,LON,2023-11-30,7:35 am , 11:45 am,1,6h 10m,150,"Finnair, Ryanair",USD,168,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+88,HEL,LON,2023-11-30,7:45 am , 4:35 pm,1,10h 50m,405,"Finnair, Ryanair",USD,110,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+89,HEL,LON,2023-11-30,6:30 am , 1:30 pm,2,9h 00m,290,"Scandinavian Airlines, Ryanair",USD,131,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+90,HEL,LON,2023-11-30,11:45 am , 2:55 pm,1,5h 10m,85,"Finnair, British Airways",USD,188,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+91,HEL,LON,2023-11-30,7:25 am , 5:00 pm,1,11h 35m,465,Scandinavian Airlines,USD,150,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+92,HEL,LON,2023-11-30,3:30 pm , 9:20 pm,2,7h 50m,195,"airBaltic, Brussels Airlines",USD,192,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+93,HEL,LON,2023-11-30,10:45 am , 6:35 pm,2,9h 50m,145,"Ryanair, British Airways",USD,126,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+94,HEL,LON,2023-11-30,12:45 pm , 6:35 pm,1,7h 50m,175,Lufthansa,USD,172,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+95,HEL,LON,2023-11-30,4:05 pm , 10:45 pm,1,8h 40m,305,"Finnair, Ryanair",USD,146,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+96,HEL,LON,2023-11-30,1:15 pm , 8:10 pm,1,8h 55m,295,CitizenPlane,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+97,HEL,LON,2023-11-30,1:35 pm , 4:20 pm,1,4h 45m,70,"Finnair, Norwegian",USD,198,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+98,HEL,LON,2023-11-30,7:05 am , 12:45 pm,1,7h 40m,185,Lufthansa,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+99,HEL,LON,2023-11-30,3:45 pm , 9:15 pm,2,7h 30m,170,"Norwegian, easyJet",USD,163,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+100,HEL,LON,2023-11-30,10:45 am , 6:40 pm,1,9h 55m,285,"Ryanair, ITA Airways",USD,168,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+101,HEL,LON,2023-11-30,12:45 pm , 7:35 pm,1,8h 50m,235,Lufthansa,USD,172,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+102,HEL,LON,2023-11-30,8:40 am , 6:50 pm,1,12h 10m,500,"airBaltic, British Airways",USD,115,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+103,HEL,LON,2023-11-30,7:40 am , 5:55 pm,1,12h 15m,505,"Norwegian, Scandinavian Airlines",USD,114,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+104,HEL,LON,2023-11-30,12:35 pm , 4:20 pm,1,5h 45m,130,"Finnair, Norwegian",USD,198,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+105,HEL,LON,2023-11-30,8:15 am , 2:50 pm,1,8h 35m,290,"Finnair, easyJet",USD,163,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+106,HEL,LON,2023-11-30,3:30 pm , 9:15 pm,2,7h 45m,190,"airBaltic, easyJet",USD,173,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+107,HEL,LON,2023-11-30,6:30 am , 1:35 pm,1,9h 05m,315,"Scandinavian Airlines, British Airways",USD,165,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+108,HEL,LON,2023-11-30,7:05 am , 3:20 pm,1,10h 15m,390,"Finnair, Ryanair",USD,145,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+109,HEL,LON,2023-11-30,10:45 am , 8:40 pm,2,11h 55m,280,"Ryanair, British Airways",USD,122,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+110,HEL,LON,2023-11-30,7:25 am , 12:20 pm,1,6h 55m,190,CitizenPlane,USD,226,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+111,HEL,LON,2023-11-30,1:15 pm , 9:15 pm,2,10h 00m,320,"Scandinavian Airlines, easyJet",USD,152,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+112,HEL,LON,2023-11-30,1:30 pm , 9:20 pm,1,9h 50m,365,Scandinavian Airlines,USD,175,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+113,HEL,LON,2023-11-30,10:45 am , 9:35 pm,2,12h 50m,330,"Ryanair, British Airways",USD,117,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+114,HEL,LON,2023-11-30,7:05 am , 2:45 pm,1,9h 40m,305,Lufthansa,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+115,HEL,LON,2023-11-30,2:00 pm , 5:05 pm,1,5h 05m,45,Lufthansa,USD,238,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+116,HEL,LON,2023-11-30,9:20 pm , 7:10 am+1,2,11h 50m,426,"airBaltic, Wizz Air",USD,150,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+117,HEL,LON,2023-11-30,12:45 pm , 9:00 pm,1,10h 15m,320,Lufthansa,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+118,HEL,LON,2023-11-30,11:45 am , 7:05 pm,1,9h 20m,295,"Finnair, Wizz Air",USD,174,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+119,HEL,LON,2023-11-30,6:30 am , 1:00 pm,2,8h 30m,190,SWISS,USD,230,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+120,HEL,LON,2023-11-30,10:15 am , 4:20 pm,1,8h 05m,265,CitizenPlane,USD,229,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+121,HEL,LON,2023-11-30,7:00 am , 3:50 pm,1,10h 50m,360,Lufthansa,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+122,HEL,LON,2023-11-30,8:40 am , 5:30 pm,2,10h 50m,305,"airBaltic, British Airways",USD,162,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+123,HEL,LON,2023-11-30,8:00 am , 5:20 pm,1,11h 20m,370,"Finnair, easyJet",USD,159,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+124,HEL,LON,2023-11-30,6:30 am , 4:20 pm,2,11h 50m,380,SWISS,USD,198,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+125,HEL,LON,2023-11-30,5:20 am , 10:20 am,2,7h 00m,130,"airBaltic, Lufthansa",USD,233,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+126,HEL,LON,2023-11-30,7:05 am , 3:45 pm,1,10h 40m,365,Lufthansa,USD,186,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+127,HEL,LON,2023-11-30,1:30 pm , 5:40 pm,2,6h 10m,85,Lufthansa,USD,275,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+128,HEL,LON,2023-11-30,8:40 am , 6:35 pm,2,11h 55m,365,"airBaltic, British Airways",USD,156,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+129,HEL,LON,2023-11-30,5:20 am , 1:35 pm,2,10h 15m,340,"airBaltic, British Airways",USD,159,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+130,HEL,LON,2023-11-30,5:20 am , 12:30 pm,2,9h 10m,180,"airBaltic, Eurostar",USD,196,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+131,HEL,LON,2023-11-30,8:15 am , 6:00 pm,1,11h 45m,475,"Finnair, easyJet",USD,163,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+132,HEL,LON,2023-11-30,6:30 am , 5:05 pm,2,12h 35m,435,SWISS,USD,198,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+133,HEL,LON,2023-11-30,6:30 am , 4:15 pm,2,11h 45m,440,"Scandinavian Airlines, easyJet",USD,162,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+134,HEL,LON,2023-11-30,8:15 am , 1:20 pm,1,7h 05m,195,CitizenPlane,USD,260,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+135,HEL,LON,2023-11-30,7:30 am , 2:30 pm,1,9h 00m,300,CitizenPlane,USD,236,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+136,HEL,LON,2023-11-30,7:00 am , 5:05 pm,1,12h 05m,435,Lufthansa,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+137,HEL,LON,2023-11-30,7:05 am , 4:40 pm,1,11h 35m,440,Lufthansa,USD,186,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+138,HEL,LON,2023-11-30,12:45 pm , 10:55 pm,1,12h 10m,435,Lufthansa,USD,179,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+139,HEL,LON,2023-11-30,6:30 am , 2:45 pm,2,10h 15m,315,Lufthansa,USD,230,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+140,HEL,LON,2023-11-30,7:05 am , 4:45 pm,1,11h 40m,425,Lufthansa,USD,186,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+141,HEL,LON,2023-11-30,7:05 am , 5:05 pm,1,12h 00m,460,Lufthansa,USD,186,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+142,HEL,LON,2023-11-30,7:25 am , 5:05 pm,2,11h 40m,370,Lufthansa,USD,217,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+143,HEL,LON,2023-11-30,5:20 am , 1:20 pm,2,10h 00m,325,"airBaltic, easyJet",USD,175,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+144,HEL,LON,2023-11-30,6:30 am , 3:45 pm,2,11h 15m,375,Lufthansa,USD,230,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+145,HEL,LON,2023-11-30,2:00 pm , 5:45 pm,1,5h 45m,70,Lufthansa,USD,274,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+146,HEL,LON,2023-11-30,7:25 am , 5:40 pm,2,12h 15m,445,Lufthansa,USD,224,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+147,HEL,LON,2023-11-30,6:30 am , 4:20 pm,2,11h 50m,390,SWISS,USD,230,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+148,HEL,LON,2023-11-30,10:15 am , 5:50 pm,2,9h 35m,255,SWISS,USD,259,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+149,HEL,LON,2023-11-30,1:30 pm , 7:30 pm,1,8h 00m,260,CitizenPlane,USD,271,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+150,HEL,LON,2023-11-30,4:20 pm , 9:15 pm,1,6h 55m,185,CitizenPlane,USD,287,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+151,HEL,LON,2023-11-30,2:45 pm , 10:10 pm,1,9h 25m,80,Pegasus Airlines,USD,267,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+152,HEL,LON,2023-11-30,6:30 am , 4:40 pm,2,12h 10m,450,Lufthansa,USD,230,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+153,HEL,LON,2023-11-30,6:30 am , 4:40 pm,2,12h 10m,450,Lufthansa,USD,230,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+154,HEL,LON,2023-11-30,6:30 am , 4:40 pm,2,12h 10m,445,Lufthansa,USD,230,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+155,HEL,LON,2023-11-30,1:30 pm , 6:45 pm,2,7h 15m,130,Lufthansa,USD,293,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+156,HEL,LON,2023-11-30,6:30 am , 4:45 pm,2,12h 15m,435,Lufthansa,USD,230,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+157,HEL,LON,2023-11-30,6:30 am , 4:45 pm,2,12h 15m,435,Lufthansa,USD,230,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+158,HEL,LON,2023-11-30,2:00 pm , 6:45 pm,1,6h 45m,130,Lufthansa,USD,274,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+159,HEL,LON,2023-11-30,1:30 pm , 9:40 pm,2,10h 10m,295,SWISS,USD,259,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+160,HEL,LON,2023-11-30,6:30 am , 5:05 pm,2,12h 35m,445,SWISS,USD,230,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+161,HEL,LON,2023-11-30,1:30 pm , 7:35 pm,2,8h 05m,160,Lufthansa,USD,287,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+162,HEL,LON,2023-11-30,7:05 am , 5:05 pm,2,12h 00m,420,Brussels Airlines,USD,211,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+163,HEL,LON,2023-11-30,7:05 am , 5:05 pm,2,12h 00m,420,Brussels Airlines,USD,211,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+164,HEL,LON,2023-11-30,4:25 pm , 10:55 pm,2,8h 30m,180,Lufthansa,USD,287,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+165,HEL,LON,2023-11-30,10:15 am , 5:05 pm,2,8h 50m,205,Lufthansa,USD,287,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+166,HEL,LON,2023-11-30,1:30 pm , 9:00 pm,2,9h 30m,245,Lufthansa,USD,287,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+167,HEL,LON,2023-11-30,1:30 pm , 8:45 pm,2,9h 15m,250,Lufthansa,USD,293,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+168,HEL,LON,2023-11-30,2:00 pm , 8:45 pm,1,8h 45m,250,Lufthansa,USD,274,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+169,HEL,LON,2023-11-30,10:15 am , 5:40 pm,2,9h 25m,280,Lufthansa,USD,293,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+170,HEL,LON,2023-11-30,8:10 am , 1:05 pm,1,6h 55m,170,British Airways,USD,329,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+171,HEL,LON,2023-11-30,5:40 pm , 10:15 pm,1,6h 35m,120,Lufthansa,USD,306,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+172,HEL,LON,2023-11-30,10:15 am , 6:35 pm,2,10h 20m,295,Lufthansa,USD,287,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+173,HEL,LON,2023-11-30,7:05 am , 5:45 pm,1,12h 40m,485,Lufthansa,USD,236,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+174,HEL,LON,2023-11-30,10:15 am , 6:45 pm,2,10h 30m,325,Lufthansa,USD,293,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+175,HEL,LON,2023-11-30,1:30 pm , 10:15 pm,2,10h 45m,340,Lufthansa,USD,293,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+176,HEL,LON,2023-11-30,10:15 am , 7:35 pm,2,11h 20m,355,Lufthansa,USD,287,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+177,HEL,LON,2023-11-30,10:15 am , 7:35 pm,2,11h 20m,355,Lufthansa,USD,287,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+178,HEL,LON,2023-11-30,1:30 pm , 10:55 pm,2,11h 25m,360,Lufthansa,USD,287,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+179,HEL,LON,2023-11-30,2:00 pm , 10:15 pm,1,10h 15m,340,Lufthansa,USD,306,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+180,HEL,LON,2023-11-30,8:10 am , 4:10 pm,1,10h 00m,350,British Airways,USD,316,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+181,HEL,LON,2023-11-30,10:15 am , 9:00 pm,2,12h 45m,440,Lufthansa,USD,287,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+182,HEL,LON,2023-11-30,10:15 am , 8:45 pm,2,12h 30m,445,Lufthansa,USD,293,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+183,HEL,LON,2023-11-30,12:45 pm , 6:45 pm,2,8h 00m,140,Lufthansa,USD,329,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+184,HEL,LON,2023-11-30,8:10 am , 6:10 pm,1,12h 00m,475,British Airways,USD,327,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+185,HEL,LON,2023-11-30,7:00 am , 1:00 pm,1,8h 00m,190,Lufthansa,USD,348,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+186,HEL,LON,2023-11-30,7:00 am , 2:45 pm,2,9h 45m,250,Lufthansa,USD,329,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+187,HEL,LON,2023-11-30,7:00 am , 2:45 pm,2,9h 45m,250,Lufthansa,USD,329,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+188,HEL,LON,2023-11-30,2:00 pm , 5:40 pm,1,5h 40m,85,Lufthansa,USD,386,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+189,HEL,LON,2023-11-30,11:40 pm , 9:20 am+1,1,11h 40m,455,CitizenPlane,USD,310,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+190,HEL,LON,2023-11-30,12:45 pm , 8:45 pm,2,10h 00m,260,Lufthansa,USD,329,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+191,HEL,LON,2023-11-30,12:45 pm , 8:45 pm,2,10h 00m,260,Lufthansa,USD,329,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+192,HEL,LON,2023-11-30,4:00 pm , 8:30 pm,1,6h 30m,150,British Airways,USD,408,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+193,HEL,LON,2023-11-30,10:15 am , 6:35 pm,2,10h 20m,305,SWISS,USD,357,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+194,HEL,LON,2023-11-30,11:40 pm , 8:35 am+1,1,10h 55m,425,CitizenPlane,USD,325,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+195,HEL,LON,2023-11-30,7:40 am , 6:15 pm,2,12h 35m,285,Iberia,USD,306,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+196,HEL,LON,2023-11-30,12:30 pm , 9:35 pm,1,11h 05m,200,TAP AIR PORTUGAL,USD,363,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+197,HEL,LON,2023-11-30,7:05 am , 5:40 pm,1,12h 35m,500,Lufthansa,USD,357,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+198,HEL,LON,2023-11-30,1:35 pm , 10:10 pm,2,10h 35m,200,Iberia,USD,362,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+199,HEL,LON,2023-11-30,7:25 am , 5:45 pm,2,12h 20m,430,Lufthansa,USD,344,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+200,HEL,LON,2023-11-30,12:25 pm , 8:50 pm,1,10h 25m,140,Turkish Airlines,USD,410,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+201,HEL,LON,2023-11-30,12:30 pm , 10:40 pm,1,12h 10m,265,TAP AIR PORTUGAL,USD,363,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+202,HEL,LON,2023-11-30,7:25 am , 2:05 pm,2,8h 40m,165,Austrian Airlines,USD,437,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+203,HEL,LON,2023-11-30,10:15 am , 7:15 pm,2,11h 00m,335,SWISS,USD,421,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+204,HEL,LON,2023-11-30,1:30 pm , 9:40 pm,2,10h 10m,270,Austrian Airlines,USD,437,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+205,HEL,LON,2023-11-30,7:00 am , 12:45 pm,2,7h 45m,130,Lufthansa,USD,449,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+206,HEL,LON,2023-11-30,7:25 am , 2:45 pm,2,9h 20m,250,Lufthansa,USD,461,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+207,HEL,LON,2023-11-30,10:15 am , 8:45 pm,2,12h 30m,445,Lufthansa,USD,394,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+208,HEL,LON,2023-11-30,12:45 pm , 6:45 pm,2,8h 00m,150,Lufthansa,USD,464,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+209,HEL,LON,2023-11-30,1:30 pm , 5:20 am+1,2,17h 50m,430,"CitizenPlane, BlaBlaBus",USD,364,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+210,HEL,LON,2023-11-30,7:45 am , 6:15 pm,2,12h 30m,265,Iberia,USD,436,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+211,HEL,LON,2023-11-30,7:40 am , 5:15 pm,2,11h 35m,235,Iberia,USD,495,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+212,HEL,LON,2023-11-30,12:25 pm , 10:15 pm,1,11h 50m,225,Turkish Airlines,USD,517,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+213,HEL,LON,2023-11-30,1:30 pm , 6:30 pm,2,7h 00m,145,Scandinavian Airlines,USD,691,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+214,HEL,LON,2023-11-30,10:15 am , 4:00 pm,2,7h 45m,200,Scandinavian Airlines,USD,702,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+215,HEL,LON,2023-11-30,1:30 pm , 7:30 pm,2,8h 00m,215,Scandinavian Airlines,USD,702,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+216,HEL,LON,2023-11-30,1:30 pm , 7:30 pm,2,8h 00m,215,Scandinavian Airlines,USD,702,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+217,HEL,LON,2023-11-30,1:15 pm , 7:30 pm,2,8h 15m,200,Scandinavian Airlines,USD,724,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+218,HEL,LON,2023-11-30,1:15 pm , 7:30 pm,2,8h 15m,205,Scandinavian Airlines,USD,724,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+219,HEL,LON,2023-11-30,12:45 pm , 6:40 pm,2,7h 55m,95,Austrian Airlines,USD,762,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+220,HEL,LON,2023-11-30,12:45 pm , 9:40 pm,2,10h 55m,280,Austrian Airlines,USD,954,https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+221,HEL,LON,2023-11-30,7:25 am , 1:05 pm,2,7h 40m,190,"Scandinavian Airlines, Lufthansa",USD,"1,636",https://www.kayak.com/flights/HEL-LON/2023-11-30?sort=bestflight_a
+222,HEL,LON,2023-11-30,10:10 pm , 11:20 pm,0,3h 10m,0,Ryanair,USD,27,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+223,HEL,LON,2023-11-30,10:10 pm , 11:20 pm,0,3h 10m,0,Ryanair,USD,26,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+224,HEL,LON,2023-11-30,9:10 am , 10:20 am,0,3h 10m,0,Norwegian,USD,61,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+225,HEL,LON,2023-11-30,2:00 pm , 3:15 pm,0,3h 15m,0,Finnair,USD,136,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+226,HEL,LON,2023-11-30,7:35 pm , 8:40 pm,0,3h 05m,0,Finnair,USD,139,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+227,HEL,LON,2023-11-30,4:00 pm , 5:00 pm,0,3h 00m,0,Finnair,USD,161,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+228,HEL,LON,2023-11-30,7:50 am , 9:10 am,0,3h 20m,0,Finnair,USD,164,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+229,HEL,LON,2023-11-30,7:35 pm , 8:40 pm,0,3h 05m,0,British Airways,USD,196,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+230,HEL,LON,2023-11-30,2:00 pm , 3:15 pm,0,3h 15m,0,British Airways,USD,198,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+231,HEL,LON,2023-11-30,7:45 pm , 10:45 pm,1,5h 00m,90,"Norwegian, Ryanair",USD,77,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+232,HEL,LON,2023-11-30,1:15 pm , 4:25 pm,1,5h 10m,70,Scandinavian Airlines,USD,94,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+233,HEL,LON,2023-11-30,4:40 pm , 7:30 pm,1,4h 50m,75,Norwegian,USD,105,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+234,HEL,LON,2023-11-30,5:20 am , 8:40 am,1,5h 20m,80,airBaltic,USD,99,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+235,HEL,LON,2023-11-30,4:25 pm , 7:55 pm,1,5h 30m,95,Scandinavian Airlines,USD,98,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+236,HEL,LON,2023-11-30,4:40 pm , 7:40 pm,1,5h 00m,80,"Norwegian, British Airways",USD,107,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+237,HEL,LON,2023-11-30,7:30 am , 11:55 am,1,6h 25m,155,"Finnair, Ryanair UK",USD,83,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+238,HEL,LON,2023-11-30,10:45 am , 5:55 pm,1,9h 10m,230,Ryanair,USD,64,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+239,HEL,LON,2023-11-30,3:45 pm , 8:10 pm,1,6h 25m,145,Norwegian,USD,105,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+240,HEL,LON,2023-11-30,4:25 pm , 9:20 pm,1,6h 55m,185,Scandinavian Airlines,USD,98,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+241,HEL,LON,2023-11-30,3:30 pm , 6:50 pm,1,5h 20m,90,"airBaltic, British Airways",USD,115,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+242,HEL,LON,2023-11-30,10:15 am , 12:55 pm,1,4h 40m,50,Scandinavian Airlines,USD,150,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+243,HEL,LON,2023-11-30,6:20 pm , 9:40 pm,1,5h 20m,95,Scandinavian Airlines,USD,129,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+244,HEL,LON,2023-11-30,1:15 pm , 6:30 pm,1,7h 15m,190,Scandinavian Airlines,USD,94,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+245,HEL,LON,2023-11-30,7:40 am , 11:45 am,1,6h 05m,145,"Norwegian, Ryanair",USD,109,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+246,HEL,LON,2023-11-30,7:40 am , 12:20 pm,1,6h 40m,175,Norwegian,USD,118,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+247,HEL,LON,2023-11-30,1:30 pm , 5:00 pm,1,5h 30m,105,Scandinavian Airlines,USD,150,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+248,HEL,LON,2023-11-30,4:40 pm , 7:55 pm,1,5h 15m,90,"Norwegian, Scandinavian Airlines",USD,138,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+249,HEL,LON,2023-11-30,10:45 am , 8:05 pm,1,11h 20m,365,"Ryanair, Wizz Air Malta",USD,62,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+250,HEL,LON,2023-11-30,4:40 pm , 9:20 pm,1,6h 40m,180,"Norwegian, Scandinavian Airlines",USD,111,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+251,HEL,LON,2023-11-30,4:40 pm , 10:45 pm,1,8h 05m,275,"Norwegian, Ryanair",USD,88,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+252,HEL,LON,2023-11-30,12:00 pm , 4:35 pm,1,6h 35m,150,"Finnair, Ryanair",USD,119,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+253,HEL,LON,2023-11-30,8:40 am , 4:45 pm,1,10h 05m,365,airBaltic,USD,84,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+254,HEL,LON,2023-11-30,10:45 am , 7:05 pm,1,10h 20m,310,"Ryanair, easyJet",USD,71,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+255,HEL,LON,2023-11-30,1:30 pm , 5:55 pm,1,6h 25m,160,Scandinavian Airlines,USD,150,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+256,HEL,LON,2023-11-30,1:15 pm , 7:35 pm,1,8h 20m,285,"Scandinavian Airlines, Ryanair UK",USD,98,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+257,HEL,LON,2023-11-30,7:25 am , 11:45 am,1,6h 20m,160,"Scandinavian Airlines, Ryanair",USD,150,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+258,HEL,LON,2023-11-30,7:25 am , 12:55 pm,1,7h 30m,215,Scandinavian Airlines,USD,150,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+259,HEL,LON,2023-11-30,10:15 am , 5:00 pm,1,8h 45m,300,Scandinavian Airlines,USD,121,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+260,HEL,LON,2023-11-30,5:20 am , 11:55 am,2,8h 35m,215,"airBaltic, Ryanair UK",USD,91,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+261,HEL,LON,2023-11-30,7:40 am , 4:20 pm,1,10h 40m,415,Norwegian,USD,105,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+262,HEL,LON,2023-11-30,10:15 am , 5:55 pm,1,9h 40m,355,Scandinavian Airlines,USD,121,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+263,HEL,LON,2023-11-30,8:40 am , 4:35 pm,1,9h 55m,360,"airBaltic, Ryanair",USD,105,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+264,HEL,LON,2023-11-30,6:30 am , 4:00 pm,1,11h 30m,455,Scandinavian Airlines,USD,107,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+265,HEL,LON,2023-11-30,10:45 am , 6:55 pm,2,10h 10m,170,Ryanair,USD,92,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+266,HEL,LON,2023-11-30,10:45 am , 6:55 pm,2,10h 10m,170,Ryanair,USD,90,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+267,HEL,LON,2023-11-30,7:25 am , 1:30 pm,2,8h 05m,230,"Scandinavian Airlines, Ryanair",USD,122,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+268,HEL,LON,2023-11-30,3:30 pm , 10:45 pm,2,9h 15m,270,"airBaltic, Ryanair",USD,105,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+269,HEL,LON,2023-11-30,7:40 am , 1:25 pm,2,7h 45m,200,Norwegian,USD,147,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+270,HEL,LON,2023-11-30,10:45 am , 6:35 pm,2,9h 50m,165,"Ryanair, Vueling",USD,109,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+271,HEL,LON,2023-11-30,1:30 pm , 7:55 pm,1,8h 25m,275,Scandinavian Airlines,USD,150,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+272,HEL,LON,2023-11-30,7:25 am , 5:55 pm,1,12h 30m,520,Scandinavian Airlines,USD,99,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+273,HEL,LON,2023-11-30,12:05 pm , 7:35 pm,1,9h 30m,360,"Finnair, Ryanair UK",USD,90,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+274,HEL,LON,2023-11-30,6:55 pm , 10:45 pm,1,5h 50m,130,"Braathens Regional Aviation, Ryanair",USD,166,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+275,HEL,LON,2023-11-30,4:00 pm , 8:10 pm,1,6h 10m,65,"Finnair, Wizz Air Malta",USD,133,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+276,HEL,LON,2023-11-30,3:30 pm , 11:15 pm,2,9h 45m,320,"airBaltic, Ryanair",USD,118,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+277,HEL,LON,2023-11-30,7:40 am , 2:30 pm,2,8h 50m,255,Norwegian,USD,140,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+278,HEL,LON,2023-11-30,3:45 pm , 8:45 pm,1,7h 00m,180,"Norwegian, British Airways",USD,125,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+279,HEL,LON,2023-11-30,6:20 pm , 9:45 pm,1,5h 25m,95,"Scandinavian Airlines, easyJet",USD,145,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+280,HEL,LON,2023-11-30,6:30 am , 1:30 pm,2,9h 00m,290,"Scandinavian Airlines, Ryanair",USD,131,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+281,HEL,LON,2023-11-30,1:15 pm , 4:55 pm,1,5h 40m,100,"Scandinavian Airlines, Norwegian",USD,145,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+282,HEL,LON,2023-11-30,6:20 pm , 11:15 pm,1,6h 55m,195,"Scandinavian Airlines, Ryanair",USD,133,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+283,HEL,LON,2023-11-30,7:00 am , 9:30 am,1,4h 30m,40,KLM,USD,179,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+284,HEL,LON,2023-11-30,6:10 pm , 8:50 pm,1,4h 40m,40,KLM,USD,179,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+285,HEL,LON,2023-11-30,10:15 am , 7:55 pm,1,11h 40m,470,Scandinavian Airlines,USD,122,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+286,HEL,LON,2023-11-30,12:00 pm , 4:45 pm,1,6h 45m,155,"Finnair, airBaltic",USD,136,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+287,HEL,LON,2023-11-30,1:55 pm , 4:35 pm,1,4h 40m,60,KLM,USD,179,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+288,HEL,LON,2023-11-30,12:05 pm , 4:55 pm,1,6h 50m,175,"Finnair, Norwegian",USD,137,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+289,HEL,LON,2023-11-30,5:20 am , 11:45 am,2,8h 25m,220,"airBaltic, Ryanair",USD,126,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+290,HEL,LON,2023-11-30,1:55 pm , 5:00 pm,1,5h 05m,70,KLM,USD,179,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+291,HEL,LON,2023-11-30,1:15 pm , 9:35 pm,1,10h 20m,380,Scandinavian Airlines,USD,145,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+292,HEL,LON,2023-11-30,10:40 am , 1:50 pm,1,5h 10m,75,KLM,USD,179,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+293,HEL,LON,2023-11-30,7:05 am , 10:20 am,1,5h 15m,55,Lufthansa,USD,179,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+294,HEL,LON,2023-11-30,7:35 am , 2:20 pm,1,8h 45m,270,"Finnair, Vueling",USD,119,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+295,HEL,LON,2023-11-30,1:55 pm , 5:20 pm,1,5h 25m,110,KLM,USD,179,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+296,HEL,LON,2023-11-30,4:00 pm , 10:25 pm,1,8h 25m,195,"Finnair, Ryanair",USD,128,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+297,HEL,LON,2023-11-30,12:00 pm , 6:50 pm,1,8h 50m,290,"Finnair, British Airways",USD,129,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+298,HEL,LON,2023-11-30,7:05 am , 10:45 am,1,5h 40m,65,Lufthansa,USD,179,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+299,HEL,LON,2023-11-30,3:30 pm , 9:45 pm,2,8h 15m,220,"airBaltic, easyJet",USD,129,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+300,HEL,LON,2023-11-30,7:00 am , 10:45 am,1,5h 45m,95,KLM,USD,179,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+301,HEL,LON,2023-11-30,7:40 am , 4:55 pm,2,11h 15m,400,Norwegian,USD,133,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+302,HEL,LON,2023-11-30,4:00 pm , 5:00 pm,0,3h 00m,0,British Airways,USD,251,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+303,HEL,LON,2023-11-30,4:00 pm , 9:50 pm,1,7h 50m,170,"Finnair, easyJet",USD,142,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+304,HEL,LON,2023-11-30,10:45 am , 7:15 pm,2,10h 30m,190,"Ryanair, British Airways",USD,107,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+305,HEL,LON,2023-11-30,12:45 pm , 5:05 pm,1,6h 20m,85,Lufthansa,USD,179,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+306,HEL,LON,2023-11-30,10:45 am , 6:45 pm,1,10h 00m,275,"Ryanair, British Airways",USD,118,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+307,HEL,LON,2023-11-30,4:00 pm , 10:10 pm,1,8h 10m,180,"Finnair, easyJet",USD,142,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+308,HEL,LON,2023-11-30,7:50 am , 9:10 am,0,3h 20m,0,British Airways,USD,251,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+309,HEL,LON,2023-11-30,10:40 am , 2:50 pm,1,6h 10m,150,"KLM, easyJet",USD,167,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+310,HEL,LON,2023-11-30,7:45 am , 4:35 pm,1,10h 50m,405,"Finnair, Ryanair",USD,110,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+311,HEL,LON,2023-11-30,7:25 am , 5:00 pm,1,11h 35m,465,Scandinavian Airlines,USD,150,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+312,HEL,LON,2023-11-30,1:55 pm , 5:55 pm,1,6h 00m,125,KLM,USD,190,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+313,HEL,LON,2023-11-30,1:15 pm , 8:10 pm,1,8h 55m,295,CitizenPlane,USD,177,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+314,HEL,LON,2023-11-30,12:45 pm , 6:35 pm,1,7h 50m,175,Lufthansa,USD,172,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+315,HEL,LON,2023-11-30,10:45 am , 6:35 pm,2,9h 50m,145,"Ryanair, British Airways",USD,128,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+316,HEL,LON,2023-11-30,4:05 pm , 10:45 pm,1,8h 40m,305,"Finnair, Ryanair",USD,146,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+317,HEL,LON,2023-11-30,1:55 pm , 6:25 pm,1,6h 30m,170,KLM,USD,190,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+318,HEL,LON,2023-11-30,7:05 am , 12:45 pm,1,7h 40m,185,Lufthansa,USD,179,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+319,HEL,LON,2023-11-30,3:45 pm , 9:15 pm,2,7h 30m,170,"Norwegian, easyJet",USD,163,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+320,HEL,LON,2023-11-30,1:55 pm , 7:00 pm,1,7h 05m,205,"KLM, easyJet",USD,152,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+321,HEL,LON,2023-11-30,10:45 am , 6:40 pm,1,9h 55m,285,"Ryanair, ITA Airways",USD,168,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+322,HEL,LON,2023-11-30,1:55 pm , 7:15 pm,1,7h 20m,200,KLM,USD,190,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+323,HEL,LON,2023-11-30,12:45 pm , 7:35 pm,1,8h 50m,235,Lufthansa,USD,172,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+324,HEL,LON,2023-11-30,10:40 am , 4:05 pm,1,7h 25m,210,KLM,USD,190,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+325,HEL,LON,2023-11-30,8:40 am , 6:50 pm,1,12h 10m,500,"airBaltic, British Airways",USD,115,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+326,HEL,LON,2023-11-30,7:40 am , 5:55 pm,1,12h 15m,505,"Norwegian, Scandinavian Airlines",USD,114,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+327,HEL,LON,2023-11-30,1:55 pm , 7:30 pm,1,7h 35m,230,"KLM, easyJet",USD,153,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+328,HEL,LON,2023-11-30,4:00 pm , 8:40 pm,1,6h 40m,115,"Finnair, British Airways",USD,192,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+329,HEL,LON,2023-11-30,8:15 am , 2:50 pm,1,8h 35m,290,"Finnair, easyJet",USD,163,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+330,HEL,LON,2023-11-30,6:30 am , 1:35 pm,1,9h 05m,315,"Scandinavian Airlines, British Airways",USD,165,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+331,HEL,LON,2023-11-30,7:05 am , 3:20 pm,1,10h 15m,390,"Finnair, Ryanair",USD,145,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+332,HEL,LON,2023-11-30,10:45 am , 8:40 pm,2,11h 55m,280,"Ryanair, British Airways",USD,123,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+333,HEL,LON,2023-11-30,7:25 am , 12:20 pm,1,6h 55m,190,CitizenPlane,USD,224,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+334,HEL,LON,2023-11-30,4:00 pm , 9:35 pm,1,7h 35m,165,"Finnair, British Airways",USD,187,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+335,HEL,LON,2023-11-30,1:15 pm , 9:15 pm,2,10h 00m,320,"Scandinavian Airlines, easyJet",USD,152,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+336,HEL,LON,2023-11-30,1:30 pm , 9:20 pm,1,9h 50m,365,Scandinavian Airlines,USD,175,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+337,HEL,LON,2023-11-30,10:45 am , 9:35 pm,2,12h 50m,330,"Ryanair, British Airways",USD,119,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+338,HEL,LON,2023-11-30,7:05 am , 2:45 pm,1,9h 40m,305,Lufthansa,USD,179,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+339,HEL,LON,2023-11-30,2:00 pm , 5:05 pm,1,5h 05m,45,Lufthansa,USD,238,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+340,HEL,LON,2023-11-30,9:20 pm , 7:10 am+1,2,11h 50m,426,"airBaltic, Wizz Air",USD,150,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+341,HEL,LON,2023-11-30,6:30 am , 1:00 pm,2,8h 30m,190,SWISS,USD,230,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+342,HEL,LON,2023-11-30,10:15 am , 4:20 pm,1,8h 05m,265,CitizenPlane,USD,227,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+343,HEL,LON,2023-11-30,7:00 am , 3:50 pm,1,10h 50m,360,Lufthansa,USD,179,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+344,HEL,LON,2023-11-30,8:40 am , 5:30 pm,2,10h 50m,305,"airBaltic, British Airways",USD,162,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+345,HEL,LON,2023-11-30,8:00 am , 5:20 pm,1,11h 20m,370,"Finnair, easyJet",USD,159,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+346,HEL,LON,2023-11-30,6:30 am , 4:20 pm,2,11h 50m,380,SWISS,USD,198,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+347,HEL,LON,2023-11-30,8:40 am , 6:35 pm,2,11h 55m,365,"airBaltic, British Airways",USD,156,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+348,HEL,LON,2023-11-30,1:30 pm , 5:40 pm,2,6h 10m,85,Lufthansa,USD,275,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+349,HEL,LON,2023-11-30,5:20 am , 1:35 pm,2,10h 15m,340,"airBaltic, British Airways",USD,159,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+350,HEL,LON,2023-11-30,7:30 am , 2:30 pm,1,9h 00m,300,CitizenPlane,USD,233,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+351,HEL,LON,2023-11-30,6:30 am , 5:05 pm,2,12h 35m,435,SWISS,USD,198,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+352,HEL,LON,2023-11-30,8:15 am , 1:20 pm,1,7h 05m,195,CitizenPlane,USD,257,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+353,HEL,LON,2023-11-30,6:30 am , 4:15 pm,2,11h 45m,440,"Scandinavian Airlines, easyJet",USD,162,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+354,HEL,LON,2023-11-30,7:05 am , 4:40 pm,1,11h 35m,440,Lufthansa,USD,186,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+355,HEL,LON,2023-11-30,6:30 am , 2:45 pm,2,10h 15m,315,Lufthansa,USD,230,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+356,HEL,LON,2023-11-30,7:05 am , 5:05 pm,1,12h 00m,460,Lufthansa,USD,186,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+357,HEL,LON,2023-11-30,7:25 am , 5:05 pm,2,11h 40m,370,Lufthansa,USD,217,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+358,HEL,LON,2023-11-30,5:20 am , 1:20 pm,2,10h 00m,325,"airBaltic, easyJet",USD,175,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+359,HEL,LON,2023-11-30,6:30 am , 3:45 pm,2,11h 15m,375,Lufthansa,USD,230,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+360,HEL,LON,2023-11-30,6:30 am , 10:30 am,1,6h 00m,65,Air France,USD,298,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+361,HEL,LON,2023-11-30,2:00 pm , 5:45 pm,1,5h 45m,70,Lufthansa,USD,274,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+362,HEL,LON,2023-11-30,1:30 pm , 7:30 pm,1,8h 00m,260,CitizenPlane,USD,268,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+363,HEL,LON,2023-11-30,7:25 am , 5:40 pm,2,12h 15m,445,Lufthansa,USD,224,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+364,HEL,LON,2023-11-30,6:30 am , 4:20 pm,2,11h 50m,390,SWISS,USD,230,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+365,HEL,LON,2023-11-30,4:20 pm , 9:15 pm,1,6h 55m,185,CitizenPlane,USD,284,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+366,HEL,LON,2023-11-30,10:15 am , 5:50 pm,2,9h 35m,255,SWISS,USD,259,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+367,HEL,LON,2023-11-30,6:30 am , 4:40 pm,2,12h 10m,450,Lufthansa,USD,230,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+368,HEL,LON,2023-11-30,6:30 am , 4:40 pm,2,12h 10m,445,Lufthansa,USD,230,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+369,HEL,LON,2023-11-30,6:30 am , 4:40 pm,2,12h 10m,450,Lufthansa,USD,230,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+370,HEL,LON,2023-11-30,2:45 pm , 10:10 pm,1,9h 25m,80,Pegasus Airlines,USD,267,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+371,HEL,LON,2023-11-30,6:30 am , 4:45 pm,2,12h 15m,435,Lufthansa,USD,230,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+372,HEL,LON,2023-11-30,6:30 am , 4:45 pm,2,12h 15m,435,Lufthansa,USD,230,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+373,HEL,LON,2023-11-30,1:30 pm , 6:45 pm,2,7h 15m,130,Lufthansa,USD,293,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+374,HEL,LON,2023-11-30,12:45 pm , 9:00 pm,1,10h 15m,320,Lufthansa,USD,229,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+375,HEL,LON,2023-11-30,2:00 pm , 6:45 pm,1,6h 45m,130,Lufthansa,USD,274,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+376,HEL,LON,2023-11-30,1:30 pm , 9:40 pm,2,10h 10m,295,SWISS,USD,259,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+377,HEL,LON,2023-11-30,1:30 pm , 7:35 pm,2,8h 05m,160,Lufthansa,USD,287,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+378,HEL,LON,2023-11-30,7:05 am , 5:05 pm,2,12h 00m,420,Brussels Airlines,USD,211,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+379,HEL,LON,2023-11-30,7:05 am , 5:05 pm,2,12h 00m,420,Brussels Airlines,USD,211,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+380,HEL,LON,2023-11-30,4:25 pm , 10:55 pm,2,8h 30m,180,Lufthansa,USD,287,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+381,HEL,LON,2023-11-30,7:05 am , 3:45 pm,1,10h 40m,365,Lufthansa,USD,236,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+382,HEL,LON,2023-11-30,10:15 am , 5:05 pm,2,8h 50m,205,Lufthansa,USD,287,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+383,HEL,LON,2023-11-30,1:30 pm , 9:00 pm,2,9h 30m,245,Lufthansa,USD,287,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+384,HEL,LON,2023-11-30,5:40 pm , 9:25 pm,1,5h 45m,60,Air France,USD,339,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+385,HEL,LON,2023-11-30,7:00 am , 5:05 pm,1,12h 05m,435,Lufthansa,USD,230,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+386,HEL,LON,2023-11-30,1:30 pm , 8:45 pm,2,9h 15m,250,Lufthansa,USD,293,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+387,HEL,LON,2023-11-30,12:45 pm , 10:55 pm,1,12h 10m,435,Lufthansa,USD,230,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+388,HEL,LON,2023-11-30,7:05 am , 4:45 pm,1,11h 40m,425,Lufthansa,USD,236,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+389,HEL,LON,2023-11-30,2:00 pm , 8:45 pm,1,8h 45m,250,Lufthansa,USD,274,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+390,HEL,LON,2023-11-30,10:15 am , 5:40 pm,2,9h 25m,280,Lufthansa,USD,293,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+391,HEL,LON,2023-11-30,8:10 am , 1:05 pm,1,6h 55m,170,British Airways,USD,329,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+392,HEL,LON,2023-11-30,5:40 pm , 10:15 pm,1,6h 35m,120,Lufthansa,USD,306,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+393,HEL,LON,2023-11-30,10:15 am , 6:35 pm,2,10h 20m,295,Lufthansa,USD,287,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+394,HEL,LON,2023-11-30,7:05 am , 5:45 pm,1,12h 40m,485,Lufthansa,USD,236,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+395,HEL,LON,2023-11-30,10:15 am , 6:45 pm,2,10h 30m,325,Lufthansa,USD,293,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+396,HEL,LON,2023-11-30,1:30 pm , 10:15 pm,2,10h 45m,340,Lufthansa,USD,293,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+397,HEL,LON,2023-11-30,10:15 am , 7:35 pm,2,11h 20m,355,Lufthansa,USD,287,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+398,HEL,LON,2023-11-30,10:15 am , 7:35 pm,2,11h 20m,355,Lufthansa,USD,287,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+399,HEL,LON,2023-11-30,1:30 pm , 10:55 pm,2,11h 25m,360,Lufthansa,USD,287,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+400,HEL,LON,2023-11-30,2:00 pm , 10:15 pm,1,10h 15m,340,Lufthansa,USD,306,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+401,HEL,LON,2023-11-30,6:30 am , 5:05 pm,2,12h 35m,445,SWISS,USD,247,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+402,HEL,LON,2023-11-30,8:10 am , 4:10 pm,1,10h 00m,350,British Airways,USD,316,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+403,HEL,LON,2023-11-30,10:15 am , 9:00 pm,2,12h 45m,440,Lufthansa,USD,287,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+404,HEL,LON,2023-11-30,10:15 am , 8:45 pm,2,12h 30m,445,Lufthansa,USD,293,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+405,HEL,LON,2023-11-30,12:45 pm , 6:45 pm,2,8h 00m,140,Lufthansa,USD,329,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+406,HEL,LON,2023-11-30,7:40 am , 5:15 pm,2,11h 35m,235,Iberia,USD,287,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+407,HEL,LON,2023-11-30,8:10 am , 6:10 pm,1,12h 00m,475,British Airways,USD,327,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+408,HEL,LON,2023-11-30,7:00 am , 1:00 pm,1,8h 00m,190,Lufthansa,USD,348,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+409,HEL,LON,2023-11-30,7:00 am , 2:45 pm,2,9h 45m,250,Lufthansa,USD,329,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+410,HEL,LON,2023-11-30,7:00 am , 2:45 pm,2,9h 45m,250,Lufthansa,USD,329,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+411,HEL,LON,2023-11-30,11:40 pm , 9:20 am+1,1,11h 40m,455,CitizenPlane,USD,310,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+412,HEL,LON,2023-11-30,12:45 pm , 8:45 pm,2,10h 00m,260,Lufthansa,USD,329,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+413,HEL,LON,2023-11-30,12:45 pm , 8:45 pm,2,10h 00m,260,Lufthansa,USD,329,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+414,HEL,LON,2023-11-30,2:00 pm , 5:40 pm,1,5h 40m,85,Lufthansa,USD,386,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+415,HEL,LON,2023-11-30,11:40 pm , 8:35 am+1,1,10h 55m,425,CitizenPlane,USD,322,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+416,HEL,LON,2023-11-30,4:00 pm , 8:30 pm,1,6h 30m,150,British Airways,USD,408,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+417,HEL,LON,2023-11-30,7:40 am , 6:15 pm,2,12h 35m,285,Iberia,USD,306,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+418,HEL,LON,2023-11-30,12:30 pm , 9:35 pm,1,11h 05m,200,TAP AIR PORTUGAL,USD,363,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+419,HEL,LON,2023-11-30,7:05 am , 5:40 pm,1,12h 35m,500,Lufthansa,USD,357,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+420,HEL,LON,2023-11-30,10:15 am , 6:35 pm,2,10h 20m,305,SWISS,USD,357,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+421,HEL,LON,2023-11-30,7:25 am , 5:45 pm,2,12h 20m,430,Lufthansa,USD,344,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+422,HEL,LON,2023-11-30,12:25 pm , 8:50 pm,1,10h 25m,140,Turkish Airlines,USD,410,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+423,HEL,LON,2023-11-30,12:30 pm , 10:40 pm,1,12h 10m,265,TAP AIR PORTUGAL,USD,363,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+424,HEL,LON,2023-11-30,7:25 am , 2:05 pm,2,8h 40m,165,Austrian Airlines,USD,437,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+425,HEL,LON,2023-11-30,10:15 am , 7:15 pm,2,11h 00m,335,SWISS,USD,421,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+426,HEL,LON,2023-11-30,1:30 pm , 9:40 pm,2,10h 10m,270,Austrian Airlines,USD,437,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+427,HEL,LON,2023-11-30,7:00 am , 12:45 pm,2,7h 45m,130,Lufthansa,USD,449,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+428,HEL,LON,2023-11-30,10:15 am , 8:45 pm,2,12h 30m,445,Lufthansa,USD,394,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+429,HEL,LON,2023-11-30,12:45 pm , 6:45 pm,2,8h 00m,150,Lufthansa,USD,464,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+430,HEL,LON,2023-11-30,7:25 am , 5:05 pm,2,11h 40m,405,Lufthansa,USD,461,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+431,HEL,LON,2023-11-30,12:25 pm , 10:15 pm,1,11h 50m,225,Turkish Airlines,USD,517,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+432,HEL,LON,2023-11-30,4:20 pm , 9:57 am+1,2,19h 37m,777,"CitizenPlane, Eurostar",USD,400,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+433,HEL,LON,2023-11-30,1:35 pm , 10:10 pm,2,10h 35m,200,Iberia,USD,571,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+434,HEL,LON,2023-11-30,7:45 am , 6:15 pm,2,12h 30m,265,Iberia,USD,638,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+435,HEL,LON,2023-11-30,1:30 pm , 6:30 pm,2,7h 00m,145,Scandinavian Airlines,USD,691,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+436,HEL,LON,2023-11-30,10:15 am , 4:00 pm,2,7h 45m,200,Scandinavian Airlines,USD,702,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+437,HEL,LON,2023-11-30,1:30 pm , 7:30 pm,2,8h 00m,215,Scandinavian Airlines,USD,702,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+438,HEL,LON,2023-11-30,1:30 pm , 7:30 pm,2,8h 00m,215,Scandinavian Airlines,USD,702,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+439,HEL,LON,2023-11-30,1:15 pm , 7:30 pm,2,8h 15m,205,Scandinavian Airlines,USD,724,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+440,HEL,LON,2023-11-30,1:15 pm , 7:30 pm,2,8h 15m,200,Scandinavian Airlines,USD,724,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+441,HEL,LON,2023-11-30,12:45 pm , 6:40 pm,2,7h 55m,95,Austrian Airlines,USD,762,https://www.momondo.com/flight-search/HEL-LON/2023-11-30?sort=bestflight_a
+442,HEL,LON,2023-11-30,10:10 PM,11:20 PM,0,3 hr 10 min,0,Ryanair,USD,28,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+443,HEL,LON,2023-11-30,9:10 AM,10:20 AM,0,3 hr 10 min,0,Norwegian,USD,67,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+444,HEL,LON,2023-11-30,2:00 PM,3:15 PM,0,3 hr 15 min,0,"Finnair, British Airways",USD,135,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+445,HEL,LON,2023-11-30,5:20 AM,4:45 PM,1,13 hr 25 min,565,Air Baltic,USD,94,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+446,HEL,LON,2023-11-30,8:40 AM,4:45 PM,1,10 hr 5 min,365,Air Baltic,USD,94,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+447,HEL,LON,2023-11-30,3:30 PM,4:45 PM+1,1,27 hr 15 min,1395,Air Baltic,USD,94,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+448,HEL,LON,2023-11-30,9:20 PM,4:45 PM+1,1,21 hr 25 min,1045,Air Baltic,USD,94,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+449,HEL,LON,2023-11-30,1:15 PM,4:25 PM,1,5 hr 10 min,70,Scandinavian Airlines,USD,104,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+450,HEL,LON,2023-11-30,1:15 PM,6:30 PM,1,7 hr 15 min,190,"Scandinavian Airlines, Operated by Sas Connect",USD,104,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+451,HEL,LON,2023-11-30,5:20 AM,8:40 AM,1,5 hr 20 min,80,Air Baltic,USD,107,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+452,HEL,LON,2023-11-30,4:25 PM,7:55 PM,1,5 hr 30 min,95,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,109,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+453,HEL,LON,2023-11-30,4:25 PM,9:20 PM,1,6 hr 55 min,185,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,109,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+454,HEL,LON,2023-11-30,3:30 PM,6:50 PM,1,5 hr 20 min,90,"Air Baltic, British Airways",USD,111,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+455,HEL,LON,2023-11-30,8:40 AM,8:40 AM+1,1,26 hr,1320,Air Baltic,USD,112,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+456,HEL,LON,2023-11-30,3:30 PM,8:40 AM+1,1,19 hr 10 min,910,Air Baltic,USD,112,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+457,HEL,LON,2023-11-30,9:20 PM,8:40 AM+1,1,13 hr 20 min,560,Air Baltic,USD,112,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+458,HEL,LON,2023-11-30,7:25 AM,5:55 PM,1,12 hr 30 min,520,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,113,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+459,HEL,LON,2023-11-30,7:25 AM,7:55 PM,1,14 hr 30 min,635,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,113,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+460,HEL,LON,2023-11-30,7:25 AM,9:20 PM,1,15 hr 55 min,725,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,113,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+461,HEL,LON,2023-11-30,6:30 AM,4:00 PM,1,11 hr 30 min,455,"Scandinavian Airlines, Operated by Sas Connect",USD,117,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+462,HEL,LON,2023-11-30,6:30 AM,9:40 PM,1,17 hr 10 min,805,"Scandinavian Airlines, Operated by Sas Connect",USD,121,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+463,HEL,LON,2023-11-30,3:45 PM,8:45 PM,1,7 hr,180,"Norwegian, British Airways",USD,123,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+464,HEL,LON,2023-11-30,10:15 AM,5:00 PM,1,8 hr 45 min,300,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,132,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+465,HEL,LON,2023-11-30,10:15 AM,5:55 PM,1,9 hr 40 min,355,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,132,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+466,HEL,LON,2023-11-30,10:15 AM,7:55 PM,1,11 hr 40 min,470,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,132,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+467,HEL,LON,2023-11-30,8:40 AM,4:45 PM+1,1,34 hr 5 min,1805,Air Baltic,USD,133,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+468,HEL,LON,2023-11-30,7:35 PM,8:40 PM,0,3 hr 5 min,0,"Finnair, British Airways",USD,135,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+469,HEL,LON,2023-11-30,10:15 AM,9:20 PM,1,13 hr 5 min,560,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,136,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+470,HEL,LON,2023-11-30,7:40 AM,4:20 PM,1,10 hr 40 min,415,Norwegian,USD,138,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+471,HEL,LON,2023-11-30,4:40 PM,7:30 PM,1,4 hr 50 min,75,Norwegian,USD,138,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+472,HEL,LON,2023-11-30,6:20 PM,9:40 PM,1,5 hr 20 min,95,"Scandinavian Airlines, Operated by Sas Connect",USD,140,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+473,HEL,LON,2023-11-30,5:20 AM,8:40 AM+1,1,29 hr 20 min,1520,Air Baltic,USD,144,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+474,HEL,LON,2023-11-30,6:30 AM,5:40 PM,1,13 hr 10 min,560,"Scandinavian Airlines, Operated by Sas Connect",USD,144,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+475,HEL,LON,2023-11-30,6:30 AM,7:30 PM,1,15 hr,670,"Scandinavian Airlines, Operated by Sas Connect",USD,144,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+476,HEL,LON,2023-11-30,3:45 PM,8:10 PM,1,6 hr 25 min,145,Norwegian,USD,151,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+477,HEL,LON,2023-11-30,7:40 AM,12:20 PM,1,6 hr 40 min,175,Norwegian,USD,152,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+478,HEL,LON,2023-11-30,1:15 PM,9:35 PM,1,10 hr 20 min,380,"Scandinavian Airlines, Operated by Sas Connect",USD,156,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+479,HEL,LON,2023-11-30,7:50 AM,9:10 AM,0,3 hr 20 min,0,"Finnair, British Airways",USD,159,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+480,HEL,LON,2023-11-30,4:00 PM,5:00 PM,0,3 hr,0,"Finnair, British Airways",USD,159,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+481,HEL,LON,2023-11-30,7:25 AM,12:55 PM,1,7 hr 30 min,215,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,160,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+482,HEL,LON,2023-11-30,7:25 AM,5:00 PM,1,11 hr 35 min,465,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,160,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+483,HEL,LON,2023-11-30,10:15 AM,12:55 PM,1,4 hr 40 min,50,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,160,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+484,HEL,LON,2023-11-30,1:30 PM,5:00 PM,1,5 hr 30 min,105,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,160,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+485,HEL,LON,2023-11-30,1:30 PM,5:55 PM,1,6 hr 25 min,160,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,160,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+486,HEL,LON,2023-11-30,1:30 PM,7:55 PM,1,8 hr 25 min,275,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,160,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+487,HEL,LON,2023-11-30,6:30 AM,10:30 AM,1,6 hr,65,Air France,USD,161,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+488,HEL,LON,2023-11-30,6:30 AM,1:45 PM,1,9 hr 15 min,260,Air France,USD,161,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+489,HEL,LON,2023-11-30,6:30 AM,4:35 PM,1,12 hr 5 min,435,Air France,USD,161,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+490,HEL,LON,2023-11-30,6:30 AM,6:20 PM,1,13 hr 50 min,545,Air France,USD,161,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+491,HEL,LON,2023-11-30,6:30 AM,9:25 PM,1,16 hr 55 min,725,Air France,USD,163,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+492,HEL,LON,2023-11-30,4:25 PM,9:20 AM+1,1,18 hr 55 min,895,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,165,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+493,HEL,LON,2023-11-30,8:25 PM,9:20 AM+1,1,14 hr 55 min,660,"Scandinavian Airlines, Operated by Sas Connect",USD,165,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+494,HEL,LON,2023-11-30,6:20 PM,8:55 AM+1,1,16 hr 35 min,NA,"Scandinavian Airlines, Operated by Sas Connect",USD,173,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+495,HEL,LON,2023-11-30,7:00 AM,9:30 AM,1,4 hr 30 min,40,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+496,HEL,LON,2023-11-30,7:00 AM,10:45 AM,1,5 hr 45 min,95,KLM,USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+497,HEL,LON,2023-11-30,7:00 AM,1:50 PM,1,8 hr 50 min,285,KLM,USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+498,HEL,LON,2023-11-30,7:00 AM,4:05 PM,1,11 hr 5 min,420,KLM,USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+499,HEL,LON,2023-11-30,7:00 AM,4:35 PM,1,11 hr 35 min,465,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+500,HEL,LON,2023-11-30,7:00 AM,5:00 PM,1,12 hr,475,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+501,HEL,LON,2023-11-30,7:00 AM,5:20 PM,1,12 hr 20 min,515,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+502,HEL,LON,2023-11-30,7:00 AM,5:55 PM,1,12 hr 55 min,530,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+503,HEL,LON,2023-11-30,7:00 AM,6:25 PM,1,13 hr 25 min,575,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+504,HEL,LON,2023-11-30,7:00 AM,7:15 PM,1,14 hr 15 min,NA,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+505,HEL,LON,2023-11-30,7:00 AM,7:35 PM,1,14 hr 35 min,645,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+506,HEL,LON,2023-11-30,7:00 AM,8:15 PM,1,15 hr 15 min,690,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+507,HEL,LON,2023-11-30,7:00 AM,8:50 PM,1,15 hr 50 min,705,KLM,USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+508,HEL,LON,2023-11-30,10:40 AM,1:50 PM,1,5 hr 10 min,75,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+509,HEL,LON,2023-11-30,10:40 AM,4:05 PM,1,7 hr 25 min,210,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+510,HEL,LON,2023-11-30,10:40 AM,4:35 PM,1,7 hr 55 min,255,"KLM, Operated by KLM Cityhopper, KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+511,HEL,LON,2023-11-30,10:40 AM,5:00 PM,1,8 hr 20 min,265,"KLM, Operated by KLM Cityhopper, KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+512,HEL,LON,2023-11-30,10:40 AM,5:20 PM,1,8 hr 40 min,305,"KLM, Operated by KLM Cityhopper, KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+513,HEL,LON,2023-11-30,10:40 AM,5:55 PM,1,9 hr 15 min,320,"KLM, Operated by KLM Cityhopper, KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+514,HEL,LON,2023-11-30,10:40 AM,6:25 PM,1,9 hr 45 min,365,"KLM, Operated by KLM Cityhopper, KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+515,HEL,LON,2023-11-30,10:40 AM,7:15 PM,1,10 hr 35 min,395,"KLM, Operated by KLM Cityhopper, KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+516,HEL,LON,2023-11-30,10:40 AM,7:35 PM,1,10 hr 55 min,435,"KLM, Operated by KLM Cityhopper, KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+517,HEL,LON,2023-11-30,10:40 AM,8:15 PM,1,11 hr 35 min,NA,"KLM, Operated by KLM Cityhopper, KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+518,HEL,LON,2023-11-30,10:40 AM,8:50 PM,1,12 hr 10 min,495,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+519,HEL,LON,2023-11-30,1:55 PM,4:35 PM,1,4 hr 40 min,60,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+520,HEL,LON,2023-11-30,1:55 PM,5:00 PM,1,5 hr 5 min,70,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+521,HEL,LON,2023-11-30,1:55 PM,5:20 PM,1,5 hr 25 min,110,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+522,HEL,LON,2023-11-30,1:55 PM,5:55 PM,1,6 hr,125,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+523,HEL,LON,2023-11-30,1:55 PM,6:25 PM,1,6 hr 30 min,170,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+524,HEL,LON,2023-11-30,1:55 PM,7:15 PM,1,7 hr 20 min,200,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+525,HEL,LON,2023-11-30,1:55 PM,7:35 PM,1,7 hr 40 min,240,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+526,HEL,LON,2023-11-30,1:55 PM,8:15 PM,1,8 hr 20 min,285,"KLM, Operated by KLM Cityhopper",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+527,HEL,LON,2023-11-30,1:55 PM,8:50 PM,1,8 hr 55 min,300,KLM,USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+528,HEL,LON,2023-11-30,6:10 PM,8:50 PM,1,4 hr 40 min,40,KLM,USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+529,HEL,LON,2023-11-30,7:00 AM,3:50 PM,1,10 hr 50 min,360,Lufthansa,USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+530,HEL,LON,2023-11-30,7:00 AM,5:05 PM,1,12 hr 5 min,435,Lufthansa,USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+531,HEL,LON,2023-11-30,7:00 AM,6:35 PM,1,13 hr 35 min,525,Lufthansa,USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+532,HEL,LON,2023-11-30,7:00 AM,7:35 PM,1,14 hr 35 min,585,Lufthansa,USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+533,HEL,LON,2023-11-30,7:00 AM,9:00 PM,1,16 hr,670,Lufthansa,USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+534,HEL,LON,2023-11-30,12:45 PM,5:05 PM,1,6 hr 20 min,85,"Lufthansa, Operated by Lufthansa CityLine",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+535,HEL,LON,2023-11-30,12:45 PM,6:35 PM,1,7 hr 50 min,175,"Lufthansa, Operated by Lufthansa CityLine",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+536,HEL,LON,2023-11-30,12:45 PM,7:35 PM,1,8 hr 50 min,235,"Lufthansa, Operated by Lufthansa CityLine",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+537,HEL,LON,2023-11-30,12:45 PM,9:00 PM,1,10 hr 15 min,320,"Lufthansa, Operated by Lufthansa CityLine",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+538,HEL,LON,2023-11-30,12:45 PM,10:55 PM,1,12 hr 10 min,435,"Lufthansa, Operated by Lufthansa CityLine",USD,177,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+539,HEL,LON,2023-11-30,7:05 AM,10:20 AM,1,5 hr 15 min,55,Lufthansa,USD,184,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+540,HEL,LON,2023-11-30,7:05 AM,10:45 AM,1,5 hr 40 min,65,Lufthansa,USD,184,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+541,HEL,LON,2023-11-30,7:05 AM,12:45 PM,1,7 hr 40 min,185,Lufthansa,USD,184,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+542,HEL,LON,2023-11-30,7:05 AM,2:45 PM,1,9 hr 40 min,305,Lufthansa,USD,184,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+543,HEL,LON,2023-11-30,7:05 AM,3:45 PM,1,10 hr 40 min,365,Lufthansa,USD,184,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+544,HEL,LON,2023-11-30,7:05 AM,4:40 PM,1,11 hr 35 min,440,"Lufthansa, Operated by Lufthansa CityLine",USD,184,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+545,HEL,LON,2023-11-30,7:05 AM,4:45 PM,1,11 hr 40 min,425,Lufthansa,USD,184,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+546,HEL,LON,2023-11-30,7:05 AM,5:05 PM,1,12 hr,460,Lufthansa,USD,184,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+547,HEL,LON,2023-11-30,7:05 AM,5:45 PM,1,12 hr 40 min,485,Lufthansa,USD,184,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+548,HEL,LON,2023-11-30,7:05 AM,6:45 PM,1,13 hr 40 min,545,Lufthansa,USD,184,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+549,HEL,LON,2023-11-30,7:05 AM,8:45 PM,1,15 hr 40 min,665,Lufthansa,USD,184,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+550,HEL,LON,2023-11-30,1:30 PM,9:20 PM,1,9 hr 50 min,365,"Scandinavian Airlines, Operated by Xfly, Sas Connect",USD,185,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+551,HEL,LON,2023-11-30,5:20 AM,5:05 PM,2,13 hr 45 min,530,Air Baltic,USD,193,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+552,HEL,LON,2023-11-30,5:20 AM,5:05 PM,2,13 hr 45 min,530,Air Baltic,USD,193,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+553,HEL,LON,2023-11-30,6:30 AM,5:05 PM,2,12 hr 35 min,435,"Scandinavian Airlines, SWISS",USD,197,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+554,HEL,LON,2023-11-30,8:40 AM,5:05 PM,2,10 hr 25 min,330,Air Baltic,USD,197,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+555,HEL,LON,2023-11-30,3:30 PM,8:50 PM,2,7 hr 20 min,NA,"Air Baltic, Brussels Airlines",USD,204,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+556,HEL,LON,2023-11-30,3:30 PM,9:20 PM,2,7 hr 50 min,195,"Air Baltic, Brussels Airlines",USD,204,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+557,HEL,LON,2023-11-30,7:25 AM,5:40 PM,2,12 hr 15 min,445,"Scandinavian Airlines, Lufthansa, Operated by Xfly, Lufthansa CityLine",USD,205,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+558,HEL,LON,2023-11-30,7:05 AM,5:05 PM,2,12 hr,420,"Lufthansa, Brussels Airlines",USD,209,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+559,HEL,LON,2023-11-30,7:05 AM,5:05 PM,2,12 hr,420,"Lufthansa, Brussels Airlines, Operated by Lufthansa CityLine",USD,209,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+560,HEL,LON,2023-11-30,7:05 AM,8:50 PM,2,15 hr 45 min,650,"Lufthansa, Brussels Airlines",USD,209,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+561,HEL,LON,2023-11-30,6:30 AM,4:40 PM,2,12 hr 10 min,445,"Scandinavian Airlines, Lufthansa, Operated by Sas Connect, Lufthansa CityLine",USD,212,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+562,HEL,LON,2023-11-30,6:30 AM,4:40 PM,2,12 hr 10 min,450,"Scandinavian Airlines, Lufthansa, Operated by Lufthansa CityLine",USD,212,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+563,HEL,LON,2023-11-30,6:30 AM,4:40 PM,2,12 hr 10 min,450,"Scandinavian Airlines, Lufthansa, Operated by Lufthansa CityLine",USD,212,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+564,HEL,LON,2023-11-30,6:30 AM,5:05 PM,2,12 hr 35 min,465,"Scandinavian Airlines, Lufthansa, Operated by Sas Connect",USD,212,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+565,HEL,LON,2023-11-30,6:30 AM,5:05 PM,2,12 hr 35 min,470,"Scandinavian Airlines, Lufthansa",USD,212,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+566,HEL,LON,2023-11-30,6:30 AM,5:05 PM,2,12 hr 35 min,470,"Scandinavian Airlines, Lufthansa",USD,212,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+567,HEL,LON,2023-11-30,6:30 AM,5:40 PM,2,13 hr 10 min,510,"Scandinavian Airlines, Lufthansa, Operated by Lufthansa CityLine",USD,212,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+568,HEL,LON,2023-11-30,6:30 AM,5:40 PM,2,13 hr 10 min,510,"Scandinavian Airlines, Lufthansa, Operated by Lufthansa CityLine",USD,212,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+569,HEL,LON,2023-11-30,6:30 AM,5:40 PM,2,13 hr 10 min,510,"Scandinavian Airlines, Lufthansa, Operated by Lufthansa CityLine",USD,212,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+570,HEL,LON,2023-11-30,7:00 AM,4:40 PM,2,11 hr 40 min,385,"Lufthansa, Operated by Lufthansa CityLine",USD,215,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+571,HEL,LON,2023-11-30,7:00 AM,4:40 PM,2,11 hr 40 min,385,"Lufthansa, Operated by Lufthansa CityLine",USD,215,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+572,HEL,LON,2023-11-30,7:00 AM,4:40 PM,2,11 hr 40 min,385,"Lufthansa, Operated by Lufthansa CityLine",USD,215,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+573,HEL,LON,2023-11-30,7:00 AM,5:05 PM,2,12 hr 5 min,405,Lufthansa,USD,215,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+574,HEL,LON,2023-11-30,7:00 AM,5:05 PM,2,12 hr 5 min,405,Lufthansa,USD,215,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+575,HEL,LON,2023-11-30,7:00 AM,5:05 PM,2,12 hr 5 min,405,Lufthansa,USD,215,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+576,HEL,LON,2023-11-30,8:25 PM,12:55 PM+1,1,18 hr 30 min,880,"Scandinavian Airlines, Operated by Sas Connect",USD,220,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+577,HEL,LON,2023-11-30,6:30 AM,1:00 PM,2,8 hr 30 min,190,"Scandinavian Airlines, SWISS, Operated by Cityjet",USD,228,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+578,HEL,LON,2023-11-30,6:30 AM,5:05 PM,2,12 hr 35 min,445,"Scandinavian Airlines, SWISS, Operated by Cityjet",USD,228,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+579,HEL,LON,2023-11-30,5:40 PM,9:25 PM,1,5 hr 45 min,60,Air France,USD,236,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+580,HEL,LON,2023-11-30,3:30 PM,9:40 PM,2,8 hr 10 min,220,"Air Baltic, Scandinavian Airlines, Operated by Sas Connect",USD,236,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+581,HEL,LON,2023-11-30,6:30 AM,5:40 PM,2,13 hr 10 min,505,"Scandinavian Airlines, Lufthansa, Operated by Sas Connect, Lufthansa CityLine",USD,243,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+582,HEL,LON,2023-11-30,5:20 AM,10:20 AM,2,7 hr,130,"Air Baltic, Lufthansa",USD,245,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+583,HEL,LON,2023-11-30,5:20 AM,10:45 AM,2,7 hr 25 min,140,"Air Baltic, Lufthansa",USD,245,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+584,HEL,LON,2023-11-30,5:20 AM,4:40 PM,2,13 hr 20 min,515,"Air Baltic, Lufthansa, Operated by Lufthansa CityLine",USD,245,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+585,HEL,LON,2023-11-30,5:20 AM,5:05 PM,2,13 hr 45 min,535,"Air Baltic, Lufthansa",USD,245,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+586,HEL,LON,2023-11-30,3:30 PM,8:45 PM,2,7 hr 15 min,130,"Air Baltic, Lufthansa",USD,249,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+587,HEL,LON,2023-11-30,7:30 PM,10:20 AM+1,2,16 hr 50 min,685,Lufthansa,USD,251,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+588,HEL,LON,2023-11-30,7:30 PM,5:05 PM+1,2,23 hr 35 min,1090,Lufthansa,USD,251,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+589,HEL,LON,2023-11-30,7:30 PM,5:05 PM+1,2,23 hr 35 min,1090,Lufthansa,USD,251,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+590,HEL,LON,2023-11-30,7:30 PM,5:05 PM+1,2,23 hr 35 min,1090,Lufthansa,USD,251,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+591,HEL,LON,2023-11-30,7:30 PM,5:05 PM+1,2,23 hr 35 min,1090,Lufthansa,USD,251,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+592,HEL,LON,2023-11-30,10:15 AM,5:50 PM,2,9 hr 35 min,255,"Scandinavian Airlines, SWISS, Operated by Xfly",USD,258,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+593,HEL,LON,2023-11-30,1:30 PM,9:40 PM,2,10 hr 10 min,295,"Scandinavian Airlines, SWISS, Operated by Xfly",USD,258,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+594,HEL,LON,2023-11-30,7:30 PM,5:05 PM+1,2,23 hr 35 min,1090,Lufthansa,USD,264,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+595,HEL,LON,2023-11-30,7:30 PM,5:05 PM+1,2,23 hr 35 min,1090,Lufthansa,USD,264,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+596,HEL,LON,2023-11-30,7:30 PM,5:05 PM+1,2,23 hr 35 min,1090,Lufthansa,USD,264,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+597,HEL,LON,2023-11-30,7:30 PM,5:05 PM+1,2,23 hr 35 min,1090,Lufthansa,USD,264,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+598,HEL,LON,2023-11-30,5:40 PM,8:00 AM+1,1,16 hr 20 min,695,Air France,USD,271,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+599,HEL,LON,2023-11-30,10:15 AM,5:40 PM,2,9 hr 25 min,280,"Scandinavian Airlines, Lufthansa, Operated by Xfly, Lufthansa CityLine",USD,272,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+600,HEL,LON,2023-11-30,1:30 PM,5:40 PM,2,6 hr 10 min,85,"Scandinavian Airlines, Lufthansa, Operated by Xfly, Lufthansa CityLine",USD,272,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+601,HEL,LON,2023-11-30,7:30 PM,10:20 AM+1,2,16 hr 50 min,685,Lufthansa,USD,282,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+602,HEL,LON,2023-11-30,7:00 AM,5:05 PM,2,12 hr 5 min,405,Lufthansa,USD,296,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+603,HEL,LON,2023-11-30,2:00 PM,5:05 PM,1,5 hr 5 min,45,Lufthansa,USD,299,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+604,HEL,LON,2023-11-30,7:25 AM,2:05 PM,2,8 hr 40 min,165,"Scandinavian Airlines, Austrian, Operated by Xfly",USD,303,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+605,HEL,LON,2023-11-30,8:10 AM,4:10 PM,1,10 hr,350,"Finnair, British Airways",USD,313,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+606,HEL,LON,2023-11-30,8:10 AM,1:05 PM,1,6 hr 55 min,170,"Finnair, British Airways",USD,326,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+607,HEL,LON,2023-11-30,9:20 PM,10:20 AM+1,2,15 hr,610,"Air Baltic, Lufthansa",USD,326,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+608,HEL,LON,2023-11-30,4:25 PM,10:20 AM+1,2,19 hr 55 min,900,"Scandinavian Airlines, Lufthansa, Operated by Xfly for Scandinavian Airlines",USD,327,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+609,HEL,LON,2023-11-30,3:30 PM,10:20 AM+1,2,20 hr 50 min,960,"Air Baltic, Lufthansa",USD,330,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+610,HEL,LON,2023-11-30,7:05 AM,5:40 PM,1,12 hr 35 min,500,"Lufthansa, Operated by Lufthansa CityLine",USD,353,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+611,HEL,LON,2023-11-30,2:00 PM,5:45 PM,1,5 hr 45 min,70,Lufthansa,USD,353,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+612,HEL,LON,2023-11-30,5:40 PM,10:15 PM,1,6 hr 35 min,120,Lufthansa,USD,353,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+613,HEL,LON,2023-11-30,10:15 AM,6:35 PM,2,10 hr 20 min,305,"Scandinavian Airlines, SWISS, Operated by Xfly, Helvetic",USD,355,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+614,HEL,LON,2023-11-30,3:30 PM,10:20 AM+1,2,20 hr 50 min,960,"Air Baltic, Lufthansa",USD,356,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+615,HEL,LON,2023-11-30,7:40 AM,7:00 PM,2,13 hr 20 min,345,"Finnair, Iberia, Operated by Iberia Express",USD,367,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+616,HEL,LON,2023-11-30,7:00 AM,5:40 PM,2,12 hr 40 min,445,"Lufthansa, Operated by Lufthansa CityLine",USD,374,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+617,HEL,LON,2023-11-30,7:00 AM,5:40 PM,2,12 hr 40 min,445,"Lufthansa, Operated by Lufthansa CityLine",USD,374,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+618,HEL,LON,2023-11-30,7:00 AM,5:40 PM,2,12 hr 40 min,445,"Lufthansa, Operated by Lufthansa CityLine",USD,374,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+619,HEL,LON,2023-11-30,7:00 AM,5:40 PM,2,12 hr 40 min,445,"Lufthansa, Operated by Lufthansa CityLine",USD,374,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+620,HEL,LON,2023-11-30,1:30 PM,10:20 AM+1,2,22 hr 50 min,1080,"Scandinavian Airlines, Lufthansa, Operated by Xfly for Scandinavian Airlines",USD,375,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+621,HEL,LON,2023-11-30,1:30 PM,10:20 AM+1,2,22 hr 50 min,1080,"Scandinavian Airlines, Lufthansa, Operated by Xfly for Scandinavian Airlines",USD,375,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+622,HEL,LON,2023-11-30,1:30 PM,10:20 AM+1,2,22 hr 50 min,1080,"Scandinavian Airlines, Lufthansa, Operated by Xfly for Scandinavian Airlines",USD,375,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+623,HEL,LON,2023-11-30,12:30 PM,9:35 PM,1,11 hr 5 min,200,"Finnair, Tap Air Portugal",USD,376,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+624,HEL,LON,2023-11-30,12:30 PM,10:40 PM,1,12 hr 10 min,265,"Finnair, Tap Air Portugal",USD,376,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+625,HEL,LON,2023-11-30,5:40 PM,5:05 PM+1,1,25 hr 25 min,1265,Lufthansa,USD,385,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+626,HEL,LON,2023-11-30,12:30 PM,9:50 AM+1,1,23 hr 20 min,945,"Finnair, Tap Air Portugal, Operated by Portugalia Airlines",USD,397,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+627,HEL,LON,2023-11-30,1:30 PM,10:20 AM+1,2,22 hr 50 min,1080,"Scandinavian Airlines, Lufthansa, Operated by Xfly for Scandinavian Airlines",USD,399,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+628,HEL,LON,2023-11-30,6:30 AM,2:05 PM,2,9 hr 35 min,215,"Scandinavian Airlines, Austrian",USD,406,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+629,HEL,LON,2023-11-30,7:30 PM,8:05 AM+1,1,14 hr 35 min,580,Lufthansa,USD,414,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+630,HEL,LON,2023-11-30,2:00 PM,5:40 PM,1,5 hr 40 min,85,"Lufthansa, Operated by Lufthansa CityLine",USD,417,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+631,HEL,LON,2023-11-30,2:00 PM,10:55 AM+1,1,22 hr 55 min,945,Icelandair,USD,418,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+632,HEL,LON,2023-11-30,6:30 AM,6:35 PM,2,14 hr 5 min,525,"Scandinavian Airlines, SWISS, Operated by Helvetic",USD,424,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+633,HEL,LON,2023-11-30,6:30 AM,6:35 PM,2,14 hr 5 min,535,"Scandinavian Airlines, SWISS, Operated by Air Baltic, Helvetic",USD,424,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+634,HEL,LON,2023-11-30,2:00 PM,10:20 AM+1,1,22 hr 20 min,1080,Lufthansa,USD,438,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+635,HEL,LON,2023-11-30,5:40 PM,10:20 AM+1,1,18 hr 40 min,860,Lufthansa,USD,438,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+636,HEL,LON,2023-11-30,8:10 AM,6:45 PM,2,12 hr 35 min,415,"Finnair, Aer Lingus, British Airways, Operated by Emerald Airlines for Aer Lingus",USD,443,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+637,HEL,LON,2023-11-30,7:30 PM,9:25 AM+1,2,15 hr 55 min,635,"Lufthansa, Operated by Lufthansa CityLine",USD,457,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+638,HEL,LON,2023-11-30,4:25 PM,10:20 AM+1,2,19 hr 55 min,900,"Scandinavian Airlines, Lufthansa, Operated by Xfly for Scandinavian Airlines",USD,461,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+639,HEL,LON,2023-11-30,4:50 PM,10:15 AM+1,1,19 hr 25 min,760,"Finnair, Iberia, British Airways, Operated by Iberia Express",USD,470,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+640,HEL,LON,2023-11-30,7:30 PM,10:25 AM+1,1,16 hr 55 min,720,Lufthansa,USD,479,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+641,HEL,LON,2023-11-30,12:45 PM,10:20 AM+1,2,23 hr 35 min,1090,"Lufthansa, Operated by Lufthansa CityLine",USD,483,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+642,HEL,LON,2023-11-30,5:40 PM,7:35 AM+1,1,15 hr 55 min,700,"Lufthansa, Operated by Lufthansa CityLine",USD,490,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+643,HEL,LON,2023-11-30,5:40 PM,7:45 AM+1,1,16 hr 5 min,690,Lufthansa,USD,490,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+644,HEL,LON,2023-11-30,12:45 PM,10:20 AM+1,2,23 hr 35 min,1090,"Lufthansa, Operated by Lufthansa CityLine",USD,496,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+645,HEL,LON,2023-11-30,12:45 PM,10:20 AM+1,2,23 hr 35 min,1090,"Lufthansa, Operated by Lufthansa CityLine",USD,496,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+646,HEL,LON,2023-11-30,12:45 PM,10:20 AM+1,2,23 hr 35 min,1090,"Lufthansa, Operated by Lufthansa CityLine",USD,496,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+647,HEL,LON,2023-11-30,12:45 PM,10:20 AM+1,2,23 hr 35 min,1090,"Lufthansa, Operated by Lufthansa CityLine",USD,496,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+648,HEL,LON,2023-11-30,2:00 PM,7:35 AM+1,1,19 hr 35 min,920,"Lufthansa, Operated by Lufthansa CityLine",USD,503,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+649,HEL,LON,2023-11-30,2:00 PM,9:25 AM+1,1,21 hr 25 min,1030,"Lufthansa, Operated by Lufthansa CityLine",USD,503,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+650,HEL,LON,2023-11-30,5:40 PM,8:45 AM+1,1,17 hr 5 min,750,Lufthansa,USD,503,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+651,HEL,LON,2023-11-30,5:40 PM,9:25 AM+1,1,17 hr 45 min,810,"Lufthansa, Operated by Lufthansa CityLine",USD,503,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+652,HEL,LON,2023-11-30,5:40 PM,9:45 AM+1,1,18 hr 5 min,810,Lufthansa,USD,503,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+653,HEL,LON,2023-11-30,5:40 PM,10:45 AM+1,1,19 hr 5 min,870,Lufthansa,USD,503,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+654,HEL,LON,2023-11-30,8:10 AM,6:00 PM,2,11 hr 50 min,385,"Finnair, Loganair, British Airways",USD,510,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+655,HEL,LON,2023-11-30,7:45 AM,7:00 PM,2,13 hr 15 min,325,"Finnair, Iberia, Operated by Air Nostrum for Iberia, Iberia Express",USD,511,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+656,HEL,LON,2023-11-30,12:25 PM,8:50 PM,1,10 hr 25 min,140,Turkish Airlines,USD,540,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+657,HEL,LON,2023-11-30,12:25 PM,10:15 PM,1,11 hr 50 min,225,Turkish Airlines,USD,540,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+658,HEL,LON,2023-11-30,12:25 PM,9:30 AM+1,1,23 hr 5 min,900,Turkish Airlines,USD,540,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+659,HEL,LON,2023-11-30,12:25 PM,12:55 PM+1,1,26 hr 30 min,1105,Turkish Airlines,USD,540,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+660,HEL,LON,2023-11-30,6:50 PM,9:30 AM+1,1,16 hr 40 min,520,Turkish Airlines,USD,540,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+661,HEL,LON,2023-11-30,6:50 PM,9:55 AM+1,1,17 hr 5 min,545,Turkish Airlines,USD,540,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+662,HEL,LON,2023-11-30,6:50 PM,12:55 PM+1,1,20 hr 5 min,725,Turkish Airlines,USD,540,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+663,HEL,LON,2023-11-30,6:50 PM,2:40 PM+1,1,21 hr 50 min,840,Turkish Airlines,USD,540,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+664,HEL,LON,2023-11-30,6:50 PM,3:50 PM+1,1,23 hr,900,Turkish Airlines,USD,540,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+665,HEL,LON,2023-11-30,12:45 PM,10:20 AM+1,2,23 hr 35 min,1090,"Lufthansa, Operated by Lufthansa CityLine",USD,563,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+666,HEL,LON,2023-11-30,12:45 PM,10:20 AM+1,2,23 hr 35 min,1090,"Lufthansa, Operated by Lufthansa CityLine",USD,563,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+667,HEL,LON,2023-11-30,4:00 PM,7:55 AM+1,2,17 hr 55 min,750,"Finnair, Aer Lingus, British Airways",USD,589,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+668,HEL,LON,2023-11-30,4:40 PM,10:15 AM+1,2,19 hr 35 min,725,"Finnair, Iberia, Operated by Iberia Express",USD,606,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+669,HEL,LON,2023-11-30,12:25 PM,2:55 PM+1,2,28 hr 30 min,1125,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+670,HEL,LON,2023-11-30,12:25 PM,2:55 PM+1,2,28 hr 30 min,1130,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+671,HEL,LON,2023-11-30,12:25 PM,2:55 PM+1,2,28 hr 30 min,1130,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+672,HEL,LON,2023-11-30,12:25 PM,2:55 PM+1,2,28 hr 30 min,1130,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+673,HEL,LON,2023-11-30,12:25 PM,2:55 PM+1,2,28 hr 30 min,1130,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+674,HEL,LON,2023-11-30,12:25 PM,2:55 PM+1,2,28 hr 30 min,1130,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+675,HEL,LON,2023-11-30,12:25 PM,2:55 PM+1,2,28 hr 30 min,1130,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+676,HEL,LON,2023-11-30,12:25 PM,2:55 PM+1,2,28 hr 30 min,1125,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+677,HEL,LON,2023-11-30,12:25 PM,2:55 PM+1,2,28 hr 30 min,1130,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+678,HEL,LON,2023-11-30,6:50 PM,2:55 PM+1,2,22 hr 5 min,745,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+679,HEL,LON,2023-11-30,6:50 PM,2:55 PM+1,2,22 hr 5 min,745,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+680,HEL,LON,2023-11-30,6:50 PM,2:55 PM+1,2,22 hr 5 min,750,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+681,HEL,LON,2023-11-30,6:50 PM,2:55 PM+1,2,22 hr 5 min,750,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+682,HEL,LON,2023-11-30,6:50 PM,2:55 PM+1,2,22 hr 5 min,750,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+683,HEL,LON,2023-11-30,6:50 PM,2:55 PM+1,2,22 hr 5 min,750,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,621,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+684,HEL,LON,2023-11-30,5:20 AM,10:25 AM,2,7 hr 5 min,105,"Air Baltic, Lufthansa",USD,655,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+685,HEL,LON,2023-11-30,8:40 AM,6:00 PM,2,11 hr 20 min,390,"Air Baltic, LOT",USD,699,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+686,HEL,LON,2023-11-30,5:20 AM,10:05 AM,2,6 hr 45 min,110,"Air Baltic, Brussels Airlines",USD,722,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+687,HEL,LON,2023-11-30,6:20 PM,10:20 AM+1,2,18 hr,795,"Scandinavian Airlines, Lufthansa",USD,729,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+688,HEL,LON,2023-11-30,8:25 PM,10:20 AM+1,2,15 hr 55 min,665,"Scandinavian Airlines, Lufthansa",USD,740,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+689,HEL,LON,2023-11-30,12:45 PM,6:40 PM,2,7 hr 55 min,95,"Lufthansa, Austrian, Operated by Lufthansa CityLine",USD,747,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+690,HEL,LON,2023-11-30,7:25 AM,4:40 PM,2,11 hr 15 min,385,"Scandinavian Airlines, Lufthansa, Operated by Xfly, Lufthansa CityLine",USD,750,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+691,HEL,LON,2023-11-30,7:25 AM,5:05 PM,2,11 hr 40 min,405,"Scandinavian Airlines, Lufthansa, Operated by Xfly",USD,750,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+692,HEL,LON,2023-11-30,7:25 AM,5:40 PM,2,12 hr 15 min,445,"Scandinavian Airlines, Lufthansa, Operated by Xfly, Lufthansa CityLine",USD,750,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+693,HEL,LON,2023-11-30,7:25 AM,6:45 PM,2,13 hr 20 min,475,"Scandinavian Airlines, Aer Lingus, Operated by Xfly, Smartlynx Airlines",USD,764,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+694,HEL,LON,2023-11-30,7:25 AM,5:20 PM,2,11 hr 55 min,375,"Scandinavian Airlines, LOT, Operated by Xfly",USD,770,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+695,HEL,LON,2023-11-30,7:25 AM,10:00 PM,2,16 hr 35 min,660,"Scandinavian Airlines, LOT, Operated by Xfly",USD,770,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+696,HEL,LON,2023-11-30,12:45 PM,6:35 PM,2,7 hr 50 min,145,"Lufthansa, SWISS, Operated by Lufthansa CityLine, Lufthansa CityLine, Helvetic",USD,822,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+697,HEL,LON,2023-11-30,7:25 AM,5:05 PM,2,11 hr 40 min,385,"Scandinavian Airlines, SWISS, Operated by Xfly, Smartlynx Airlines EE",USD,824,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+698,HEL,LON,2023-11-30,7:25 AM,6:35 PM,2,13 hr 10 min,475,"Scandinavian Airlines, SWISS, Operated by Xfly, Smartlynx Airlines EE, Helvetic",USD,824,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+699,HEL,LON,2023-11-30,10:15 AM,5:05 PM,2,8 hr 50 min,220,"Scandinavian Airlines, SWISS, Operated by Xfly, Smartlynx Airlines EE",USD,824,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+700,HEL,LON,2023-11-30,10:15 AM,6:35 PM,2,10 hr 20 min,310,"Scandinavian Airlines, SWISS, Operated by Xfly, Smartlynx Airlines EE, Helvetic",USD,824,https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+701,HEL,LON,2023-11-30,1:30 PM,8:45 PM,2,9 hr 15 min,260,"Scandinavian Airlines, Lufthansa, British Airways, Operated by Xfly, BA Cityflyer",USD,"1,048",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+702,HEL,LON,2023-11-30,5:20 AM,6:30 AM+1,3,27 hr 10 min,920,"Air Baltic, El Al",USD,"1,105",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+703,HEL,LON,2023-11-30,12:25 PM,11:45 AM+1,1,25 hr 20 min,1040,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,"1,190",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+704,HEL,LON,2023-11-30,12:25 PM,3:20 PM+1,1,28 hr 55 min,1245,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,"1,190",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+705,HEL,LON,2023-11-30,6:50 PM,11:45 AM+1,1,18 hr 55 min,660,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,"1,190",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+706,HEL,LON,2023-11-30,6:50 PM,3:20 PM+1,1,22 hr 30 min,865,"Turkish Airlines, Operated by Anadolujet Trademark of Turkish Airlines",USD,"1,190",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+707,HEL,LON,2023-11-30,3:30 PM,9:00 AM+3,3,67 hr 30 min,3275,"Air Baltic, El Al",USD,"1,233",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+708,HEL,LON,2023-11-30,9:20 PM,9:00 AM+3,3,61 hr 40 min,2925,"Air Baltic, El Al",USD,"1,233",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+709,HEL,LON,2023-11-30,7:05 AM,10:50 AM,1,5 hr 45 min,80,"Lufthansa, British Airways, Operated by BA Cityflyer",USD,"1,256",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+710,HEL,LON,2023-11-30,7:05 AM,6:30 PM,1,13 hr 25 min,535,"Lufthansa, British Airways, Operated by BA Cityflyer",USD,"1,256",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+711,HEL,LON,2023-11-30,7:05 AM,8:45 PM,1,15 hr 40 min,675,"Lufthansa, British Airways, Operated by BA Cityflyer",USD,"1,256",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+712,HEL,LON,2023-11-30,8:40 AM,9:00 AM+3,3,74 hr 20 min,3685,"Air Baltic, El Al",USD,"1,306",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+713,HEL,LON,2023-11-30,7:05 AM,10:20 AM+1,1,29 hr 15 min,1495,Lufthansa,USD,"1,326",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+714,HEL,LON,2023-11-30,7:05 AM,9:35 PM,2,16 hr 30 min,670,"Lufthansa, British Airways, Operated by BA Euroflyer",USD,"1,369",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+715,HEL,LON,2023-11-30,7:05 AM,9:35 PM,2,16 hr 30 min,670,"Lufthansa, British Airways, Operated by BA Euroflyer",USD,"1,369",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+716,HEL,LON,2023-11-30,7:05 AM,9:35 PM,2,16 hr 30 min,670,"Lufthansa, British Airways, Operated by BA Euroflyer",USD,"1,369",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+717,HEL,LON,2023-11-30,2:00 PM,9:35 PM,2,9 hr 35 min,255,"Lufthansa, British Airways, Operated by BA Euroflyer",USD,"1,369",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+718,HEL,LON,2023-11-30,5:40 PM,3:05 PM+1,2,23 hr 25 min,1085,"Lufthansa, British Airways, Operated by BA Euroflyer",USD,"1,369",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+719,HEL,LON,2023-11-30,5:40 PM,3:05 PM+1,2,23 hr 25 min,1085,"Lufthansa, British Airways, Operated by BA Euroflyer",USD,"1,376",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+720,HEL,LON,2023-11-30,5:40 PM,3:05 PM+1,2,23 hr 25 min,1085,"Lufthansa, British Airways, Operated by BA Euroflyer",USD,"1,389",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+721,HEL,LON,2023-11-30,7:00 AM,2:50 PM,2,9 hr 50 min,280,"Lufthansa, British Airways, Operated by Lufthansa CityLine, BA Cityflyer",USD,"1,470",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+722,HEL,LON,2023-11-30,7:00 AM,2:50 PM,2,9 hr 50 min,280,"Lufthansa, British Airways, Operated by BA Cityflyer",USD,"1,470",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+723,HEL,LON,2023-11-30,12:45 PM,8:45 PM,2,10 hr,270,"Lufthansa, British Airways, Operated by Lufthansa CityLine, BA Cityflyer",USD,"1,491",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+724,HEL,LON,2023-11-30,12:45 PM,8:45 PM,2,10 hr,270,"Lufthansa, British Airways, Operated by Lufthansa CityLine, BA Cityflyer",USD,"1,491",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+725,HEL,LON,2023-11-30,12:45 PM,8:45 PM,2,10 hr,270,"Lufthansa, British Airways, Operated by Lufthansa CityLine, BA Cityflyer",USD,"1,491",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+726,HEL,LON,2023-11-30,6:30 AM,3:30 PM,2,11 hr,350,"Scandinavian Airlines, British Airways, SWISS, Operated by Cityjet, BA Cityflyer",USD,"1,514",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+727,HEL,LON,2023-11-30,7:00 AM,3:30 PM,2,10 hr 30 min,310,"Lufthansa, British Airways, SWISS, Operated by BA Cityflyer",USD,"1,530",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+728,HEL,LON,2023-11-30,7:00 AM,9:35 PM,2,16 hr 35 min,660,"Lufthansa, British Airways, Operated by Lufthansa CityLine, BA Euroflyer",USD,"1,531",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+729,HEL,LON,2023-11-30,7:00 AM,9:35 PM,2,16 hr 35 min,660,"Lufthansa, British Airways, Operated by Lufthansa CityLine, BA Euroflyer",USD,"1,531",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+730,HEL,LON,2023-11-30,7:00 AM,9:35 PM,2,16 hr 35 min,660,"Lufthansa, British Airways, Operated by BA Euroflyer",USD,"1,531",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+731,HEL,LON,2023-11-30,12:45 PM,9:35 PM,2,10 hr 50 min,310,"Lufthansa, British Airways, Operated by Lufthansa CityLine, Lufthansa CityLine, BA Euroflyer",USD,"1,531",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+732,HEL,LON,2023-11-30,12:45 PM,9:35 PM,2,10 hr 50 min,310,"Lufthansa, British Airways, Operated by Lufthansa CityLine, Lufthansa CityLine, BA Euroflyer",USD,"1,531",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+733,HEL,LON,2023-11-30,3:30 PM,10:00 PM,2,8 hr 30 min,205,"Air Baltic, LOT",USD,"1,662",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+734,HEL,LON,2023-11-30,3:30 PM,8:15 PM,2,6 hr 45 min,140,"Air Baltic, KLM, Operated by KLM Cityhopper",USD,"1,685",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+735,HEL,LON,2023-11-30,5:20 AM,5:05 PM,2,13 hr 45 min,510,"Air Baltic, SWISS",USD,"1,743",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+736,HEL,LON,2023-11-30,2:00 PM,6:30 PM,1,6 hr 30 min,120,"Lufthansa, British Airways, Operated by BA Cityflyer",USD,"1,836",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+737,HEL,LON,2023-11-30,2:00 PM,8:45 PM,1,8 hr 45 min,260,"Lufthansa, British Airways, Operated by BA Cityflyer",USD,"1,836",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+738,HEL,LON,2023-11-30,5:40 PM,11:05 AM+1,1,19 hr 25 min,905,"Lufthansa, British Airways, Operated by BA Cityflyer",USD,"1,861",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+739,HEL,LON,2023-11-30,5:40 PM,9:30 AM+1,2,17 hr 50 min,720,"Air France, KLM, Operated by KLM Cityhopper for KLM Royal Dutch Airlines",USD,"2,013",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+740,HEL,LON,2023-11-30,6:30 AM,5:20 PM,2,12 hr 50 min,410,"Scandinavian Airlines, LOT",USD,"2,676",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
+741,HEL,LON,2023-11-30,12:45 PM,8:20 PM,2,9 hr 35 min,215,"Lufthansa, Air Dolomiti, British Airways, Operated by Lufthansa CityLine, BA Euroflyer",USD,"3,224",https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTMwagcIARIDSEVMcgwIAxIIL20vMDRqcGxAAUgBcAGCAQsI____________AZgBAg&tfu=EgYIARAAGAAqAggD&curr=USD
